@@ -7,14 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi, I'm Devon Persing
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+I’m an accessibility specialist and mentor based in Seattle, WA, USA. I approach accessibility holistically, practically, strategically, and with the understanding that the creation of inaccessible spaces and products is rooted in ableism.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+I’ve worked in agencies, product companies, non-profits, ecommerce, higher education, and social services. I love mentoring and working with people to build their skills around how accessibility work intersects with UX, change management, operations, training, community, and knowledge management.
