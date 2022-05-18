@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Devon Persing
+date: 2022-05-18
 permalink: /
 eleventyNavigation:
   key: Home
