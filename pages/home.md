@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Devon Persing
+metaDescription: I’m an accessibility specialist and mentor based in Seattle, WA, USA.
 date: 2022-05-18
 permalink: /
 eleventyNavigation:
