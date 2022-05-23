@@ -1,7 +1,16 @@
+/*
+white: #fdfdfd
+light: #b3efff
+bright: #00cff
+medium: 046b99
+dark: #1c304a
+black: #1f1f1f
+*/
+
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #1C304A; /* dark */
+	--secondary: #00CFFF; /* bright */
+	--background: #FDFDFD; /* white */
 }
 
 *, *:before, *:after {
