@@ -1,30 +1,16 @@
 /*
-white: #fdfdfd;
-light: #b3efff;
-bright: #00cff;
-medium: 046b99;
-dark: #1c304a;
-black: #1f1f1f;
+white: #fdfdfd
+light: #b3efff
+bright: #00cff
+medium: 046b99
+dark: #1c304a
+black: #1f1f1f
 */
 
 :root {
-	--primary: #1f1f1f;
-	--secondary: #046b99;
-	--background: #fdfdfd;
-	--light: #b3efff;
-	--bright: #00cfff;
-	--dark: #1C304A;
-}
-
-@media (prefers-color-scheme: dark) {
-	:root {
-		--primary: #b3efff;
-		--secondary: #00cfff;
-		--background: #1c304a;
-		--light: #fdfdfd;
-		--bright: #b3efff;
-		--dark: #1f1f1f;
-	}
+	--primary: #1C304A; /* dark */
+	--secondary: #00CFFF; /* bright */
+	--background: #FDFDFD; /* white */
 }
 
 *, *:before, *:after {
@@ -134,9 +120,8 @@ header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-	--dark: #1C304A; /* dark */="current item"] {
+header nav li a[data-current="current item"] {
 	background-color: white;
-	text-decoration: underline;
 }
 
 /* Posts List */
