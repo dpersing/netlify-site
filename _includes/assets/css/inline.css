@@ -1,6 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
+	--foreground: black;
 	--background: #FFF0EB;
 }
 
@@ -37,8 +38,11 @@ a[href]:visited {
 	color: var(--primary);
 }
 
-a[href]:not(:hover) {
-	text-decoration: none;
+a[href]:focus,
+a[href]:hover {
+	color: var(--foreground);
+	text-decoration-thickness: 0.25em;
+	text-decoration-skip-ink: none;
 }
 
 img {
