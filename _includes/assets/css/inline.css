@@ -115,6 +115,13 @@ header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
+header nav li a[href]:focus,
+header nav li a[href]:hover {
+	color: var(--primary);
+	text-decoration-thickness: default;
+	text-decoration-skip-ink: default;
+}
+
 header nav li a[data-current="current item"] {
 	background-color: white;
 }
