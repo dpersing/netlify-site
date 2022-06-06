@@ -1,8 +1,9 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--foreground: black;
-	--background: #FFF0EB;
+	--primary: #ED254E;
+	--secondary: #2A323C;
+	--highlight: #F9DC5C;
+	--foreground: #F4FFFD;
+	--background: #011936;
 }
 
 *, *:before, *:after {
@@ -17,10 +18,11 @@ body {
 }
 
 body {
+	background-color: var(--background);
+	color: var(--foreground);
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
 }
 
 main {
@@ -40,9 +42,8 @@ a[href]:visited {
 
 a[href]:focus,
 a[href]:hover {
-	color: var(--foreground);
+	color: var(--highlight);
 	text-decoration-thickness: 0.25em;
-	text-decoration-skip-ink: none;
 }
 
 img {
@@ -123,15 +124,14 @@ header nav li a[href]:hover {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: var(--secondary)
 }
 
 /* Posts List */
 article {
+	border-bottom: 1px solid var(--foreground);
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
 }
 
 main > section > article > * {
@@ -143,18 +143,17 @@ main > section > article > * {
 a[rel="tag"],
 a[rel="tag"]:visited {
 	display: inline-block;
-  vertical-align: text-top;
-  text-transform: uppercase;
+	vertical-align: text-top;
 	letter-spacing: .1em;
-  font-size: .625em;
-  padding: 0 .5em;
+	font-size: .625em;
+	padding: 0 .5em;
 	line-height: 2em;
 	height: 2em;
-  border: 1px solid var(--secondary);
+	border: 1px solid var(--secondary);
 	background-color: var(--secondary);
 	color: var(--primary);
-  border-radius: .25em;
-  text-decoration: none;
+	border-radius: .25em;
+	text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 
@@ -190,7 +189,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid var(--foreground);
 }
 
 button {
