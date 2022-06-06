@@ -35,8 +35,7 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
+a[href] {
 	color: var(--primary);
 }
 
@@ -156,7 +155,8 @@ a[rel="tag"] {
 }
 
 a[rel="tag"]:focus,
-a[rel="tag"]:hover {
+a[rel="tag"]:hover,
+a[rel="tag"]:hover:visited {
 	background-color: var(--highlight);
 	color: var(--secondary);
 }
