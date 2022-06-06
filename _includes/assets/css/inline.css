@@ -43,7 +43,7 @@ a[href]:visited {
 a[href]:focus,
 a[href]:hover {
 	color: var(--highlight);
-	text-decoration-thickness: 0.25em;
+	text-decoration: none;
 }
 
 img {
@@ -113,18 +113,11 @@ header nav li a {
 }
 
 header nav li a[href]:not(:hover) {
-	text-decoration: none;
-}
-
-header nav li a[href]:focus,
-header nav li a[href]:hover {
-	color: var(--primary);
-	text-decoration-thickness: default;
-	text-decoration-skip-ink: default;
+	text-decoration: default;
 }
 
 header nav li a[data-current="current item"] {
-	background-color: var(--secondary)
+	background-color: var(--secondary);
 }
 
 /* Posts List */
