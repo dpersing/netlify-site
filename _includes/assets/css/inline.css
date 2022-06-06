@@ -46,6 +46,11 @@ a[href]:hover {
 	text-decoration: none;
 }
 
+a[href]:focus {
+	outline: 1px dashed var(--link);
+	outline-offset: 1px;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -116,7 +121,6 @@ header nav li a[data-current="current item"],
 header nav li a[data-current="current item"]:focus,
 header nav li a[data-current="current item"]:hover {
 	background-color: var(--secondary);
-	color: var(--foreground);
 	text-decoration: none;
 }
 
