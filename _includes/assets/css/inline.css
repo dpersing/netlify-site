@@ -116,9 +116,12 @@ header nav li a[href]:not(:hover) {
 	text-decoration: default;
 }
 
-header nav li a[data-current="current item"] {
+header nav li a[data-current="current item"],
+header nav li a[data-current="current item"]:focus,
+header nav li a[data-current="current item"]:hover {
 	background-color: var(--secondary);
 	color: var(--highlight);
+	text-decoration: none;
 }
 
 /* Posts List */
