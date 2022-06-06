@@ -1,6 +1,6 @@
 :root {
 	--primary: #F82651;
-	--secondary: #2A323C;
+	--secondary: #13181F;
 	--highlight: #F9DC5C;
 	--foreground: #F4FFFD;
 	--background: #011936;
@@ -112,15 +112,11 @@ header nav li a {
 	border-radius: .25em;
 }
 
-header nav li a[href]:not(:hover) {
-	text-decoration: default;
-}
-
 header nav li a[data-current="current item"],
 header nav li a[data-current="current item"]:focus,
 header nav li a[data-current="current item"]:hover {
 	background-color: var(--secondary);
-	color: var(--highlight);
+	color: var(--foreground);
 	text-decoration: none;
 }
 
