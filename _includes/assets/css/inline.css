@@ -51,7 +51,7 @@ a[href]:hover {
 
 a[href]:focus {
 	outline: 1px dashed var(--focus);
-	outline-offset: 1px;
+	outline-offset: 3px;
 }
 
 img {
