@@ -1,12 +1,12 @@
 ---
 layout: layouts/blog.njk
-title: Blog | Devon Persing
+title: Designing accessibility services in organizations | Devon Persing
 metaDescription: Ideas.
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /a11yops/index.html
 eleventyNavigation:
-  key: Blog
-  order: 2
+  key: Designing accessibility services in organizations
+  order: 3
 ---
 
-# Blog
+# Designing accessibility services in organizations
