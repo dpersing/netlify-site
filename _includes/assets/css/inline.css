@@ -1,7 +1,7 @@
 :root {
 	--foreground: #EFEFEF;
 	--background: #07104A;
-	--link: #109908;
+	--link: #13B80A;
 	--focus: #D9E603;
 	--highlight: #FA8991;
 }
@@ -115,9 +115,14 @@ header nav li {
 	margin: 0 .25em;
 }
 
-header nav li a {
+header a {
 	padding: .25em .5em;
 	border-radius: .25em;
+}
+
+header nav li a[data-current] {
+	color: var(--highlight);
+	text-decoration: none;
 }
 
 /* Posts List */
