@@ -6,7 +6,7 @@ date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
   key: Blog
-  order: 4
+  order: 2
 ---
 
 # Blog
