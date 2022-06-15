@@ -41,7 +41,8 @@ main {
 
 p,
 pre,
-code {
+code,
+label {
 	line-height: 1.5;
 }
 
@@ -200,10 +201,23 @@ textarea {
 }
 
 button {
-	border: 1px solid var(--primary);
-	background-color: var(--primary);
+	border: 1px solid var(--foreground);
+	background-color: var(--foreground);
 	color: var(--secondary);
 	cursor: pointer;
+}
+
+button:focus,
+button:hover {
+	border-color: var(--focus)
+	color: var(--focus);
+	text-decoration: none;
+}
+
+button:focus
+input:focus {
+	outline: 1px dashed var(--focus);
+	outline-offset: 3px;
 }
 
 @media screen and (min-width:768px) {
