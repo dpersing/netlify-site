@@ -209,16 +209,11 @@ button {
 }
 
 button:focus,
-button:hover {
-	border-color: var(--focus);
+button:hover,
+input:focus {
 	color: var(--focus);
 	text-decoration: none;
-}
-
-button:focus
-input:focus {
-	outline: 1px dashed var(--focus);
-	outline-offset: 3px;
+	border: 1px dashed var(--focus);
 }
 
 @media screen and (min-width:768px) {
