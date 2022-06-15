@@ -211,6 +211,7 @@ button {
 button:focus,
 button:hover,
 input:focus {
+	outline: none;
 	color: var(--focus);
 	text-decoration: none;
 	border: 1px dashed var(--focus);
