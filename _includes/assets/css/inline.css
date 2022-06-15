@@ -198,18 +198,19 @@ button {
 input,
 textarea {
 	border: 1px solid var(--foreground);
+	background-color: var(--background);
 }
 
 button {
-	border: 1px solid var(--foreground);
-	background-color: var(--foreground);
-	color: var(--secondary);
+	border: 1px solid var(--link);
+	background-color: var(--background);
+	color: var(--link);
 	cursor: pointer;
 }
 
 button:focus,
 button:hover {
-	border-color: var(--focus)
+	border-color: var(--focus);
 	color: var(--focus);
 	text-decoration: none;
 }
