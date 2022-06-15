@@ -178,7 +178,7 @@ a[rel="tag"]:last-child {
 
 */
 
-/* Contact Form
+/* Contact Form */
 form {
   display: grid;
 	padding: 2em 0;
@@ -209,8 +209,6 @@ button {
 	color: var(--secondary);
 	cursor: pointer;
 }
-
-*/
 
 @media screen and (min-width:768px) {
 	:root {
