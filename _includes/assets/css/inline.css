@@ -197,8 +197,8 @@ button {
 
 input,
 textarea {
-	color: var(--foreground)
-	border: 1px solid var(--foreground);
+	border: 2px solid var(--foreground);
+	color: var(--foreground);
 	background-color: var(--background);
 }
 
@@ -211,11 +211,12 @@ button {
 
 button:focus,
 button:hover,
-input:focus {
+input:focus,
+textarea:focus {
 	outline: none;
 	color: var(--focus);
 	text-decoration: none;
-	border: 1px dashed var(--focus);
+	border: 2px dashed var(--focus);
 }
 
 @media screen and (min-width:768px) {
