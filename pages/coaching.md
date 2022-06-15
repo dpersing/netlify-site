@@ -21,6 +21,19 @@ I offer 1-hour coaching and mentoring sessions to individuals who are looking fo
 
 I offer this service on a sliding scale. Payment is due at booking. If you don't see your situation here or you have questions about the cost or payment methods, please contact me here or message me on LinkedIn.
 
+| **Scenario** | **Price** |
+|---|---|
+| Individuals who are:
+- Full-time students
+- Unemployed or houseless
+- On, eligible for, or _should_ be eligible for disability benefits
+- Member of a "host" tribe or First Nation
+- Experiencing financial hardship for any other reason, including all intersections of oppression (LGBTQIA+, race, ethnicity, colonization, etc.) | $0 USD |
+| Individuals working for non-profits, higher education, or government, or are paying out of pocket | $60 USD |
+| Designers, developers, and others in early-to-mid-career individuals who are getting reimbursed from professional development budgets from employers | $100 USD |
+| Managers | $250 USD |
+| Directors, executives, C-suite, and other senior leadership | $500 USD |
+
  **Scenario** | **Price** 
 ------|------
 - Full-time students
