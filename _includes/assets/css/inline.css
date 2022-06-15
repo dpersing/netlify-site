@@ -197,6 +197,7 @@ button {
 
 input,
 textarea {
+	color: var(--foreground)
 	border: 1px solid var(--foreground);
 	background-color: var(--background);
 }
