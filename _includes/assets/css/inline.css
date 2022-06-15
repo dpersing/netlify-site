@@ -116,6 +116,10 @@ header > em {
 	font-style: normal;
 }
 
+header > em a {
+	text-decoration: none;
+}
+
 /* Header Nav */
 header nav ul {
 	padding: 0;
