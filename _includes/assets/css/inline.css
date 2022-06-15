@@ -42,7 +42,8 @@ main {
 p,
 pre,
 code,
-label {
+label,
+li {
 	line-height: 1.5;
 }
 
