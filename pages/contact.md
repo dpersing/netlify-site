@@ -11,4 +11,4 @@ eleventyNavigation:
 ---
 # Contact
 
-Have a question about how I might be able to help your organization with a workshop, speaking engagement, or consulting? Let me know here, or reach out on [LinkedIn](https://www.linkedin.com/in/devonpersing/).
+Have a question about how I can help your organization with a workshop, speaking engagement, or consulting? Let me know here, or reach out on [LinkedIn](https://www.linkedin.com/in/devonpersing/).

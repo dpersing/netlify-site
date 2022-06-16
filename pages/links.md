@@ -9,6 +9,8 @@ eleventyNavigation:
 ---
 # Links
 
+This is a collection of articles, talks, and discussions of which I'm particularly proud.
+
 ## Articles
 
 - [Accessibility is more than a technical problem](https://ux.shopify.com/accessibility-is-more-than-a-technical-problem-ca6bb9dee8ce) for Shopify UX, 2021
