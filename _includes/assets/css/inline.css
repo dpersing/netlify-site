@@ -109,15 +109,19 @@ pre {
 
 /* Header Logo (style as h2) */
 header > em {
-	display: block;
+	display: flex;
+	align-items: center;
 	font-size: 2em;
-	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
 }
 
 header > em a {
 	text-decoration: none;
+}
+
+header > em picture {
+	display: flex;
 }
 
 /* Header Nav */
