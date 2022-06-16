@@ -116,11 +116,6 @@ header > em {
 	font-style: normal;
 }
 
-header > em img {
-	height: 1em;
-	margin-bottom: -6px;
-}
-
 header > em a {
 	text-decoration: none;
 }
