@@ -1,6 +1,6 @@
 :root {
 	--foreground: #EFEFEF;
-	--background: #07104A;
+	--background: #232023;
 	--focus: #13B80A;
 	--link: #D9E603;
 	--highlight: #FA8991;
@@ -8,7 +8,7 @@
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--foreground: #07104A;
+		--foreground: #232023;
 		--background: #EFEFEF;
 		--focus: #2D56E6;
 		--link: #0A6205;
