@@ -65,7 +65,7 @@ Accessibility ignorance actually goes beyond just a lack of accessibility litera
 - It's not hiring disabled people.
 - It's hiring disabled people but only to do accessibility work.
 - It's not including disability in your organization's diversity and inclusion work.
-- It's viewing accessibility as in competition with security, privacy, localization, or "shipping fast."
+- It's viewing accessibility as being in competition with security, privacy, localization, or "shipping fast."
 - It's doing accessibility testing, but only right before a launch, where no real change can be made.
 - It's compartmentalizing accessibility work as only a development problem, or as only a UX problem.
 - It's not addressing your own individual, often-internalized ableism.
@@ -80,7 +80,7 @@ So, how do we build accessibility literacy at the organizational level? This tak
 
 The type of accessibility education that works best for a team will depend entirely on the culture of the organization, the needs of the team, and the learning styles of the team members. However, there are a variety of learning opportunities that I've found success with in the past.
 
-## "Just in time" documentation
+### "Just in time" documentation
 
 "Just in time" documentation might take the form of having accessibility docs and features built into your design system, handbook, or other content that's shared by the team. This type of content works best when it's with all of the other learning materials, not in a separate accessibility silo. Including detailed recommendations or guidance for your specific environment and toolset means that people can do accessibility work even if they don't know all the ins and outs of why they're doing it or how.
 
