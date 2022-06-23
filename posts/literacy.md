@@ -4,6 +4,7 @@ metaDescription: Accessibility literacy must be a goal for any kind of sustainab
 date: 2022-06-23
 author: Devon Persing
 summary: Accessibility literacy must be a goal for any kind of sustainable, scalable accessibility program.
+displaytitle: Using accessibility literacy to counter accessibility ignorance
 ---
 
 # Using accessibility literacy to counter accessibility ignorance
