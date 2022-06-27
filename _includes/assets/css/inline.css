@@ -240,4 +240,9 @@ textarea:focus {
 	:root {
 		font-size: 1.1rem;
 	}
+
+	body {
+		margin: 0 auto;
+		max-width: fit-content;
+	}
 }
