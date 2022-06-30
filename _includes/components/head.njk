@@ -4,6 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
+  <meta property="og:site_name" content="Devon Persing">
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
+  <meta property="og:image" content="{{ '/static/img/logo_96w.png' | url }}">
+  <meta property="og:url" content="{{ '/' | url }}">{{ metadata.title }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image:alt" content="Pancake emoji">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
