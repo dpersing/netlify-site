@@ -11,6 +11,12 @@ eleventyNavigation:
 
 ## Experience
 
+### Independent Accessibility Consultant: July 2022-present
+
+- Usability-focused education and training
+- Accessibility operations and programming strategy
+- Accessibility practitioner coaching and mentoring
+
 ### Instructor, School of Visual Concepts, Seattle, WA:  2013-present
 
 - 2015-present: Accessibility practice workshops for designers, developers, and product managers, and consultation for accessibility learning in certificate programs
