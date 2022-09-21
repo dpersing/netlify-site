@@ -17,9 +17,9 @@ eleventyNavigation:
 - Accessibility operations and programming strategy
 - Accessibility practitioner coaching and mentoring
 
-### Instructor, School of Visual Concepts, Seattle, WA:  2013-present
+### Instructor, School of Visual Concepts, Seattle, WA:  2013-2020
 
-- 2015-present: Accessibility practice workshops for designers, developers, and product managers, and consultation for accessibility learning in certificate programs
+- 2015-2020: Accessibility practice workshops for designers, developers, and product managers, and consultation for accessibility learning in certificate programs
 - 2013-2015: 5-week programming class for designers and non-technical learners, introducing coding best practices and front-end development concepts
 
 ### Shopify: May 2018-November 2021
