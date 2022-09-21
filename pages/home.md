@@ -12,4 +12,4 @@ eleventyNavigation:
 
 I’m an accessibility specialist and mentor based in Seattle, WA, USA. I approach accessibility holistically, practically, and strategically.
 
-I’ve worked in agencies, product companies, non-profits, ecommerce, higher education, and social services. I love mentoring and working with teams to help build their skills around the intersection of accessibility with UX, content, change management, operations, training, community, and knowledge management.
+I’ve worked in agencies, product companies, non-profits, ecommerce, higher education, and social services. I love mentoring and working with teams to help build their skills around the intersection of accessibility with research, change management, operations, and knowledge management.
