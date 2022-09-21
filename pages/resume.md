@@ -47,7 +47,7 @@ eleventyNavigation:
 
 ### Accessibility Analyst/Developer, Foundry Interactive, Seattle, WA: 2011-2015
 
-- Built out core accessibility accessibility engineering team, testing practices, and training materials within a global travel company
+- Built out core accessibility engineering team, testing practices, and training materials within a global travel company
 - Provided accessibility reviews and analysis against WCAG 2.0 and best practices, resulting in reports for leadership as well as actionable tasks and training for UX, devs, testers, with a focus on clients in ecommerce and digital media
 
 ### Web Developer, LexBlog, Seattle WA: 2010-2011
