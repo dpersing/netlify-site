@@ -246,3 +246,27 @@ textarea:focus {
 		max-width: fit-content;
 	}
 }
+
+/* Tables */
+
+table {
+	border-collapse:collapse;
+    border-spacing:0;
+}
+
+th, td {
+	text-align: left;
+	padding: 6px;
+}
+
+tr {
+	border-bottom: 1px solid var(--foreground);
+}
+
+th {
+	color: var(--highlight);
+}
+
+tr > th {
+	border-bottom: 1px solid var(--focus);
+}
