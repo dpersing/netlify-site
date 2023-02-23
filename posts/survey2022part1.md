@@ -225,7 +225,7 @@ Feel free to cite and remix this data in presentations, posts, and other researc
 
 Here's a citation you can use in APA format:
 
-> Persing, Devon. (2023, February, XX). Accessibility roles and hiring survey, 2022, basic data. dpersing.com. http://dpersing.com/posts/2022part1
+> Persing, Devon. (2023, February, 23). Accessibility roles and hiring survey, 2022, basic data. dpersing.com. http://dpersing.com/posts/survey2022part1
 
 ## Next steps
 
