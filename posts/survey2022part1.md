@@ -17,7 +17,7 @@ I did not collect email addresses, IP addresses, or any other identifying inform
 
 ## Job roles, organizations, and scope
 
-I asked participants to respond to questions about employment, roles, compensation, and organizations were all asked in relation to their most recent work experience.
+I asked participants to respond to questions about employment, roles, compensation, and organizations. All questions were asked in relation to their most recent work experience.
 
 ### Did you (like many people) quit a job in 2020, 2021, or 2022?
 
