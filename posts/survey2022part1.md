@@ -2,7 +2,7 @@
 title: Accessibility roles and hiring survey 2022 basic data | Devon Persing
 permalink: posts/survey2022part1/index.html
 metaDescription: In July and August of 2022, I conducted a brief, anonymous survey to collect employment data from people who currently work in digital accessibility, as well as those looking to enter the field. In this blog post, I share the basic quantitative data I collected.
-date: 2023-02-23
+date: 2023-02-24
 author: Devon Persing
 summary: In July and August of 2022, I conducted a brief, anonymous survey to collect employment data from people who currently work in digital accessibility, as well as those looking to enter the field. In this blog post, I share the basic quantitative data I collected.
 displaytitle: Accessibility roles and hiring survey 2022 basic data
