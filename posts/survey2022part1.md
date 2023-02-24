@@ -38,7 +38,7 @@ This question was required and respondents could make a single choice from a lis
 | *Yes, but it's not officially part of my role* | 106                   | 21.0%                     |
 | *Yes, but not currently*                       | 7                     | 1.4%                      |
 | **Yes total**                                  | **442**               | **87.7%**                 |
-| **No total**                                   | 253                   | 50.2%                     |
+| **No total**                                   | 253                   | 12.3%                     |
 
 The remaining questions in this section were asked of respondents who answered some variation of "Yes" to the question about working in the field.
 
