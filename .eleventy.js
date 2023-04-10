@@ -116,11 +116,4 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     }
   };
-
-  // RSS feed
-  const pluginRss = require("@11ty/eleventy-plugin-rss");
-
-  module.exports = function(eleventyConfig) {
-    eleventyConfig.addPlugin(pluginRss);
-  };
 };
