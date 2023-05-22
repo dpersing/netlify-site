@@ -1,4 +1,5 @@
 ---
+layout: layouts/page.njk
 title: Links | Devon Persing
 metaDescription: Links to articles, talks, and podcasts about accessibility and adjacent topics that I've had the pleasure to make.
 date: 2022-05-19
@@ -15,9 +16,7 @@ This is a collection of articles, talks, and discussions of which I'm particular
 
 - [Accessibility is more than a technical problem](https://ux.shopify.com/accessibility-is-more-than-a-technical-problem-ca6bb9dee8ce) for Shopify UX, 2021
 - [World-building accessibility literacy](https://www.24a11y.com/2019/world-building-accessibility-literacy/) for 24 Accessibility, 2019
-- [The accessibility stack](http://simplyaccessible.com/article/the-accessibility-stack/) for Simply Accessible, 2016
-- [Ecommerce and accessibility](http://simplyaccessible.com/article/ecommerce-podcast/) for Simply Accessible, 2016
-- [Cultivating engagement for accessibility](http://simplyaccessible.com/article/finding-willing-cultivating-engagement-accessibility/) for Simply Accessible, 2016
+- [The accessibility stack](https://web.archive.org/web/20210211003545/http://simplyaccessible.com/article/the-accessibility-stack/) for Simply Accessible, 2016
 
 ## Videos
 
