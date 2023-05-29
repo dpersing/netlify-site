@@ -6,6 +6,7 @@ author: Devon Persing
 summary: Accessibility literacy must be a goal for any kind of sustainable, scalable accessibility program.
 displaytitle: Using accessibility literacy to counter accessibility ignorance
 ---
+## Introduction
 In any organization working to make their products and services accessible, there always comes a critical point when the capacity of one or a few accessibility specialists maxes out. I gave [a talk in 2019 at A11yTO Conf](https://conf.a11yto.com/2019/talks#Designing-Accessibility-Education) on the topic of designing accessibility education in response to this exact problem. The solution I proposed then, and still believe in today, is to focus on activities that grow accessibility literacy. **Accessibility literacy must be a goal for any kind of sustainable, scalable accessibility program.**
 
 In this post, I'm going to expand on the idea of accessibility literacy, why it's important, and ways you can encourage it in your organization.
