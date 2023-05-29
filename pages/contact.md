@@ -7,7 +7,7 @@ date: 2022-06-15
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 4
+  order: 5
 ---
 # Contact
 
