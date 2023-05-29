@@ -55,6 +55,10 @@ li:last-child {
 	margin-bottom: 0;
 }
 
+li > ol {
+	margin-top: .5em;
+}
+
 a[href] {
 	color: var(--link);
 }

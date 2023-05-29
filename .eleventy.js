@@ -4,8 +4,15 @@ const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginTOC = require('eleventy-plugin-toc');
 
 module.exports = function(eleventyConfig) {
+
+  // TOC plugin
+  eleventyConfig.addPlugin(pluginTOC, {
+    tags: ['h2', 'h3'],
+    wrapper: ''
+  });
 
   // RSS feed
   eleventyConfig.addPlugin(pluginRss);

@@ -11,6 +11,10 @@ section: post
     </small>
   </p>
 
+  <nav aria-label="Table of contents">
+  {{content | toc | safe }}
+  </nav>
+
   {{ layoutContent | safe }}
 
   {% if tags %}
