@@ -20,7 +20,7 @@ To get started, I ask that you set up a [45-minute getting-to-know-you Zoom call
 
 This is a [1-hour mentoring/coaching Zoom call](https://calendly.com/devon-persing/mentoring-coaching-session) to discuss your dreams, challenges, and needs around getting into or doing digital accessibility work. We'll collaborate to find strategies, resources, and reasonable, measurable goals that work for you so you feel like you're making progress. We can meet as few or as many times as you need.
 
-**A 60 USD fee per session is requested for this service.** Payment can be made before or after the session to [@a11ydevon on Venmo](https://account.venmo.com/u/a11ydevon).
+**A 60 USD fee per session is requested but not required for this service.** Payment can be made before or after the session to [@a11ydevon on Venmo](https://account.venmo.com/u/a11ydevon).
 
 **Payment is absolutely not required nor expected if you are experiencing financial hardship for any reason.** These reasons include but are not limited to: disability, unemployment, immigrant or refugee status, being unhoused, or systemic oppression because of your race, ethnicity, gender, sexuality, religion, etc.
 
