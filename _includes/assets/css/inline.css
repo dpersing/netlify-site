@@ -79,6 +79,12 @@ img {
 	height: auto;
 }
 
+.portrait {
+	width: auto;
+	height: auto;
+	margin: 1em 0;
+}
+
 header,
 main,
 footer {
@@ -156,6 +162,10 @@ header em a {
 header nav li a[data-current] {
 	color: var(--foreground);
 	text-decoration: none;
+}
+
+small, figcaption {
+	font-size: 0.8em;
 }
 
 /* Posts List */
