@@ -104,3 +104,4 @@ In addition to education and support for people who are doing accessibility work
 Think about all of this as setting up accessibility operations, much like you may already have dev ops or UX ops. Choosing to do accessibility right means establishing a organization-wide commitment to making both the organization and the product more accessible, as well as giving specialists the tools and support they need to get that work done without risking burnout.
 
 Accessibility literacy is one way to help take the weight off of one person's shoulders and put it where it should be, across the shoulders of everyone in the organization. The lift should be lighter, and infinitely long.
+
