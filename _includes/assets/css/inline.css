@@ -1,7 +1,7 @@
 :root {
 	--foreground: #EFEFEF;
 	--background: #232023;
-	--focus: #13B80A;
+	--focus: #8BC9CB;
 	--link: #D9E603;
 	--highlight: #FA8991;
 }
@@ -11,7 +11,7 @@
 		--foreground: #232023;
 		--background: #EFEFEF;
 		--focus: #2D56E6;
-		--link: #0A6205;
+		--link: #2D473C;
 		--highlight: #ab2f37;
 	}
 }
