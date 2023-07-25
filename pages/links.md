@@ -21,7 +21,7 @@ This is a collection of articles, talks, and discussions of which I'm particular
 ## Videos
 
 - [Accessibility is hard, and other myths](https://www.youtube.com/watch?v=7jho7wC1t6c) for A11yTalks, 2021
-- [5 ways to make your magazine website more accessible](https://www.youtube.com/watch?v=e9yX5n9GRFM) for MagsBC, 2017
+- [Making your website more accessible](https://www.youtube.com/watch?v=e9yX5n9GRFM) for MagsBC, 2017
 - [Getting started with accessibility for design and development](https://www.youtube.com/watch?v=VPrFSy3X67E) for Geekfest Seattle, 2016
 - [Ambient librarianship](https://www.youtube.com/watch?v=zuGO_kuhZZE) for Ignite Ann Arbor, 2009
 
