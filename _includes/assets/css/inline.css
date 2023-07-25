@@ -59,6 +59,10 @@ li > ol {
 	margin-top: .5em;
 }
 
+ul ul li:first-child {
+	margin-top: .5em;
+}
+
 a[href] {
 	color: var(--link);
 }

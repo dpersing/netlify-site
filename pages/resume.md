@@ -9,78 +9,97 @@ eleventyNavigation:
 ---
 # Resume
 
-## Experience
+## Accessibility consulting experience
 
-### Independent Accessibility Consultant: July 2022-present
+### Independent Accessibility Consultant: July 2022 – present
 
-- Usability-focused education and training
-- Accessibility operations and programming strategy
-- Accessibility practitioner coaching and mentoring
+I help organizations assess their digital accessibility maturity, identify gaps in processes and workflows, and scale accessibility programming, with an approach that centers the needs of people with disabilities, beyond compliance. I also mentor folks who are new to the digital accessibility space to help them have sustainable careers.
 
-### Instructor, School of Visual Concepts, Seattle, WA:  2013-2020
+#### Accessibility Specialist and Accessibility Operations Program Manager, [Shopify](https://www.shopify.com/): May 2018 – November 2021
 
-- 2015-2020: Accessibility practice workshops for designers, developers, and product managers, and consultation for accessibility learning in certificate programs
-- 2013-2015: 5-week programming class for designers and non-technical learners, introducing coding best practices and front-end development concepts
+-	Developed and managed roadmap for AODA compliance for core product
+-	Responsible for requests for proposals and managing relationships with vendors
+-	Co-authored internal Accessibility Handbook to support asynchronous instruction on disability, digital accessibility, AT, and best practices for accessibility-focused research, design, development, and testing
+-	Established accessibility programming for the UX discipline:
+    -	Developed accessibility performance expectations for UX roles
+    -	Created onboarding and ongoing training for UX practitioners
+    -	Established standards for accessibility and usability workflows and benchmarks
+    -	Instructed and mentored designers in conducting research with disabled users
+-	Facilitated accessibility-focused communities of practice across the organization
+-	Provided policy recommendations to senior and executive leadership
+-	Performed advocacy and provided education across the organization through live and recorded workshops and talks
+-	SME for design system team, providing education and support for design, implementation, testing, and documentation in a React JS environment
+-	Co-led cross-disciplinary projects with DEI
+-	Provided support for disabled employees seeking help with accommodation requests for AT and related tools
 
-### Shopify: May 2018-November 2021
+### Workshop Instructor, [School of Visual Concepts](https://www.svcseattle.com/): July 2013 – July 2020
 
-#### Technical Program Manager, Accessibility, for UX Operations: November 2020-November 2021
+-	Designed and delivered in-person and online workshops for product teams and UX designers to teach accessibility best practice, standards, processes, AT, and roles
+-	Taught 5-week crash courses on HTML5, CSS, and CMS best practices
 
-- Led accessibility programming for UX design, content, managers, and leadership
-- Established and co-led Shopify-wide Accessibility Guild to highlight teams' work
-- Led efforts to standardize and benchmark accessibility-focused usability testing
-- Established expectations around accessibility knowledge for UX role leveling
-- Collaborated with Knowledge Management, Research Operations, and Research & Development Learning to create self-serve, onboarding, and ongoing accessibility education
-- Evangelized accessibility to UX, Product, Engineering, and Executive Leadership
+### Accessibility Consultant, [Simply Accessible](https://web.archive.org/web/20210817225046/https://simplyaccessible.com/)/Level Access: August 2015 – May 2018
 
-#### Accessibility Specialist: May 2018-November 2020
+-	Provided strategic and tactical support for international clients in a consulting agency
+-	Performed manual testing and reporting against WCAG 2 and best practices
+-	Delivered training through live workshops, digital office hours, and async support
 
-- Collaborated with operations, learning, research and tooling teams to establish best practices for accessibility training, testing, and workflows
-- Co-designed Accessibility Handbook
-- Managed projects and communications with accessibility vendors for system-wide audits
-- Created best practices for accessibility testing and wrote accessibility documentation for the [Polaris design system](https://polaris.shopify.com/)
+### Accessibility Analyst/Developer, [Foundry Interactive](https://www.foundryinteractive.com/): March 2012 – July 2015
 
-### Accessibility Consultant, Simply Accessible/Level Access: September 2015-April 2018
+-	Established accessibility programs and teams for client organizations
+-	Performed manual and automated testing against WCAG 2 and best practices
+-	Reported test results and supported clients through accessibility repair and remediation
 
-- Testing, training, and consulting on web and app accessibility with a focus on usable, platform-agnostic, multi-channel experiences
-- Collaboration with clients in ecommerce, non-profit, banking, and travel sectors to build strategy around sustainable accessibility programs
+## Additional experience
 
-### Accessibility Analyst/Developer, Foundry Interactive, Seattle, WA: 2011-2015
+### Web Developer, [LexBlog](https://www.lexblog.com/): October 2010 – November 2011
 
-- Built out core accessibility engineering team, testing practices, and training materials within a global travel company
-- Provided accessibility reviews and analysis against WCAG 2.0 and best practices, resulting in reports for leadership as well as actionable tasks and training for UX, devs, testers, with a focus on clients in ecommerce and digital media
+Performed CMS customization and information architecture for complex sites.
 
-### Web Developer, LexBlog, Seattle WA: 2010-2011
+### Interface Specialist, [Scholarly Publishing Office](https://web.archive.org/web/20120125080315/http://www.lib.umich.edu/spo/), University of Michigan: August 2009 – September 2010
 
-- Primary technical consultant for product scope, spec, information architecture, and process documentation
-- Primary contact point for contract developers
+- Performed requirements gathering, information architecture planning, prototyping, implementation, iterative testing of interface improvements, and Google Analytics tracking and reporting for online books and journals
+- Delivered design and front-end development of CMS and custom-built sites for open access publishing, academic community, and peer review projects
+- Contributed to omprovement of standards-based XHTML output for both accessibility and search engine rankings
+- Performed design, implementation, and reporting of formal and informal usability tests for large-scale public-facing websites to gather feedback from user populations and stakeholders
+- Consulted across departments on usability, accessibility, and web standards
 
-### Interface Specialist, University of Michigan, Ann Arbor, MI: 2009-2010
+### Digital Services Assistant, [Kresge Library](https://www.bus.umich.edu/KresgeLibrary/), Ross School of Business, University of Michigan: March 2008 – August 2009
 
-- Responsible for user-centered design, UX, IA, full-stack development, user analytics management and analysis in an academic publishing environment
-- Developed new front-end templates and collaborated with platform developers to improve accessibility and SEO of online books and journals
-- Cross-department consultant in usability research, accessibility, and web standards
+- Delivered content inventory and traffic and search log analysis leading to revised information architecture, revised design, and implementation for library site relaunch
+- Managed of the library website, blog, wiki, and Google Analytics tracking and analysis
+- Provided technical support of online research and course management tools for librarians and faculty
 
-### Digital Services Assistant, University of Michigan, Ann Arbor, MI: 2008-2009
-- Provided technical support of online research and course management tools for business school librarians, faculty, and students
-- Created IA and UX design for library site relaunch
+### Content Manager and Instructor, [Life Sciences Institute](https://www.lsi.umich.edu/), University of Michigan: September 2006 – May 2008
 
-### Analyst and UI Specialist, Washtenaw County Office of Community Development, Ann Arbor, MI: 2006-2008
-- Provided UI design, business logic, user training, analysis, and reporting for data management systems used by countywide homeless, housing, and supportive services
-- Hired based on graduate research work in human services systems
+- Content management and user instruction for a complex Drupal site in an academic setting
+- Collaboration with Director of Communications and faculty to design and produce digital  materials for news and events
+- Hired for the position after managing a content migration for the organization through a contract with a web development agency
 
-### Research Support Specialist, University of Michigan Center for the Education of Women, Ann Arbor, MI: 2004-2006
-- Defined custom metadata schema and wrote support documentation for a grant-funded digital repository of primary and secondary research materials
-- Provided research support and library resource management for sociological research on work/life balance and work/education counseling
+### HMIS Analyst, [Housing and Homelessness Services](https://www.washtenaw.org/3253/Housing-and-Homelessness-Programs), Washtenaw County, MI: September 2006 – May 2008
+
+- Provided administration, report management, training, and support for a proprietary web-based database application used for demographic data collection and reporting
+- Delivered for interface design and data mapping in data conversion and development efforts
+- Assisted over a dozen human services agencies, serving thousands of individuals and families, to fulfill their reporting needs to secure federal and local program funding
+
+### Library Research Assistant, [Center for the Education of Women](https://www.cew.umich.edu/), University of Michigan: September 2004 – August 2006
+
+- Provided research support and resource management for sociological research, work and education counseling, and academic meetings
+- Designed metadata standards and help documentation for the National Clearinghouse on Academic Worklife
+- Collaborated with subject specialists, external firms, and in-house information professionals to successfully deliver grant-funded projects
+
+### University Assistant to the Library, [Blough-Weis Library](https://library.susqu.edu/home), Susquehanna University: January 2001 – August 2004
+
+- Performed design, implementation, testing, and maintenance of interactive online tutorials in general research methods and library literacy, aimed at undergraduates
+- Collaborated with public service and reference librarians, faculty, and students, to develop course-specific online tools and guides in a course management system environment
 
 ## Education
 
-### MS in Information, University of Michigan, School of Information: 2004-2006
+### MS in Information, [School of Information](https://www.si.umich.edu/), University of Michigan: 2004-2006
 
-- Library & Information Services specialization, with additional focus on human/computer interaction and policy for information management for the public good
-- Special projects in human services systems to support homeless community members
+- Library & Information Services specialization, with additional focus on human/computer interaction and policy for information management of public services
+- Special projects in human services systems to support unhoused community members
 
-### BA in Creative Writing, Susquehanna University: 2000-2004
+### BA in Creative Writing, [Susquehanna University](https://www.susqu.edu/): 2000 – 2004
 
 - 2001-2004 University Assistant to the Library, developing a comprehensive undergraduate orientation program in research methods and library literacy
 - 2004 fiction editor of the national student magazine Susquehanna Review
