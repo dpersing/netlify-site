@@ -15,7 +15,7 @@ I'm going to outline practical and actionable guidance for building out a sustai
 
 ## Who this book is for
 
-This book is primarily for accessibility practitioners, that is, anyone who's trying to make accessibility programming happen at an organization, or for clients. It's especially for accessibility specialists who find themselves in over their heads, or who are interested in growing their skills in areas like change management, program management, and operations. Secondarily, it's for anyone who is trying to support that kind of work: managers, team leads, colleagues, and so on.
+This book is primarily for accessibility practitioners: anyone who's trying to make accessibility programming happen at an organization, or for clients. It's especially for accessibility specialists who find themselves in over their heads, or who are interested in growing their skills in areas like change management, program management, and operations. Secondarily, it's for anyone who is trying to support that kind of work: managers, team leads, colleagues, and so on.
 
 ## How you can help
 
@@ -25,7 +25,7 @@ While I'm writing, I'll be reaching out to members of the digital accessibility 
 
 ### Follow and support the project
 
-To help me stay accountable, I've set up a [Ko-Fi](https://ko-fi.com/a11ydevon) for this project. There, you can follow project updates and contribute financially. Contributions are set at $5 USD because that's the minimum that Ko-Fi requires, but you can change this to whatever you'd like to give.
+To help me stay accountable and offset the cost of doing the project, I've set up a [Ko-Fi](https://ko-fi.com/a11ydevon). There, you can follow project updates and contribute financially. Contributions are set at $5 USD because that's the minimum that Ko-Fi requires, but you can change this to whatever you'd like to give.
 
 **For a one-time contribution**, you will:
 
