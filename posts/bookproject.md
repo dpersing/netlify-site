@@ -2,7 +2,7 @@
 title: I'm writing a book | Devon Persing
 permalink: posts/writing-a-book/index.html
 metaDescription: The Accessibility Operations Guidebook will launch in March 2024.
-date: 2023-09-01
+date: 2023-08-29
 author: Devon Persing
 summary: The Accessibility Operations Guidebook will launch in March 2024.
 displaytitle: I'm writing a book
@@ -11,11 +11,11 @@ Over the next several months, I'm writing a book called _The Accessibility Opera
 
 ## What this book is about
 
-I'm going to outline practical and actionable guidance for building out a sustainable accessibility program. This will include recommendations about communication, services, and program management, as well as advice about avoiding burnout. It will also include some of the frameworks and theories of information literacy and organizational theory that I have brought over from my years of work and study in information science.
+I'm going to outline practical and actionable guidance for building out a sustainable accessibility program. This will include recommendations about communication, services, and program management, as well as advice about avoiding burnout. It will also include some of the frameworks and theories of information literacy and organization theory that I have brought over from my years of work and study in information science.
 
 ## Who this book is for
 
-This book is primarily for accessibility practitioners: anyone who's trying to make accessibility programming happen at an organization, or for clients. It's especially for accessibility specialists who find themselves in over their heads, or who are interested in growing their skills in areas like change management, program management, and operations. Secondarily, it's for anyone who is trying to support that kind of work: managers, team leads, colleagues, and so on.
+This book is primarily for accessibility practitioners: anyone who's trying to make accessibility programming and operations happen at an organization. It's especially for accessibility specialists who find themselves in over their heads, or who are interested in growing their skills in areas like change management, program management, and operations. Secondarily, it's for anyone who is trying to support that kind of work: managers, team leads, colleagues, and so on, as well as those that work at the intersections of other DEI programs.
 
 ## How you can help
 
@@ -29,19 +29,17 @@ To help me stay accountable and offset the cost of doing the project, I've set u
 
 **For a one-time contribution**, you will:
 
-- Get access to an outline for the book
-- Receive an accessible, digital copy of *The Accessibility Operations Guidebook*, scheduled for release in March 2024
+- Pre-order an accessible, digital copy of *The Accessibility Operations Guidebook*, scheduled for release in March 2024
 
 **As a monthly supporter**, you will:
 
-- Get access to an outline for the book
-- Receive an accessible, digital copy of *The Accessibility Operations Guidebook*, scheduled for release in March 2024
+- Pre-order an accessible, digital copy of *The Accessibility Operations Guidebook*, scheduled for release in March 2024
 - Get access to chapter drafts as I complete them
-- Be able to contribute feedback on those drafts
+- Be able to contribute feedback on chapter drafts as they are released
 
-Basically, being a monthly supporter means you don't have to wait until March to read the book, _and_ you'll have access to the book in its most unpolished and unfiltered form before I do major edits in February 2024. I will also not collect monthly subscriptions after February 2024, so there is a limited window for access to these early drafts.
+Basically, being a monthly supporter means you don't have to wait until March to read the book, _and_ you'll have access to the content in its most unpolished and unfiltered form before I do major edits in February 2024. I will also not collect monthly subscriptions after February 2024, so there is a limited window for access to these early drafts.
 
-The timeline for draft topics will look something like this:
+The timeline for topics will look something like this:
 
 - **September 2023:** Frameworks and theories
 - **October 2023:** Tactics versus strategies and communication in accessibility work
@@ -52,4 +50,4 @@ The timeline for draft topics will look something like this:
 
 ## Contact me with comments or questions
 
-If you have a question about the project or Ko-Fi, you can send me an email through my [contact](/contact) page, or you can message me on [LinkedIn](https://www.linkedin.com/in/devonpersing/).
+If you have a question about the project or Ko-Fi, you can send me an email through my [contact](/contact) page.
