@@ -19,4 +19,4 @@ I’m an independent accessibility specialist and mentor based in Seattle, WA, U
 
 I’ve worked in agencies, product companies, non-profits, ecommerce, higher education, and social services. I love mentoring folks who are looking to grow as accessibility professionals, as well as working with organizations to improve their accessibility thinking, processes, workflows, and education.
 
-I'm writing a book called [_The Accessibility Operations Guidebook_](/posts/writing-a-book/), which I plan to launch in March 2024. You can follow updates and contribute to this project via [Ko-Fi](https://ko-fi.com/a11ydevon).
+I'm writing a book called [_The Accessibility Operations Guidebook_](/posts/writing-a-book/). You can follow updates and contribute to this project via [Ko-Fi](https://ko-fi.com/a11ydevon).
