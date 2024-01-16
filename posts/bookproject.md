@@ -7,7 +7,7 @@ author: Devon Persing
 summary: The Accessibility Operations Guidebook is a tool for making your accessibility practice more sustainable and holistic.
 displaytitle: I'm writing a book
 ---
-_**Update:** I originally wrote this post in August of 2023, and I'm updating it on January 16, 2024. You can see the [original version on GitHub](https://github.com/dpersing/netlify-site/blob/2a48c4cfde69386d170071c2d0d31917b9f134d0/posts/bookproject.md)._
+_**Update:** I originally wrote this post in August of 2023, and I'm updating it on January 16, 2024. You can see the [original version](https://github.com/dpersing/netlify-site/blob/2a48c4cfde69386d170071c2d0d31917b9f134d0/posts/bookproject.md) and a [diff between the two](https://github.com/dpersing/netlify-site/commit/1ee283d6ab1ea71b84f3268e06bc29d8c5ace9f9) on GitHub._
 
 I'm writing a book called _The Accessibility Operations Guidebook_, which I plan to launch in 2024 as a digital publication.
 
