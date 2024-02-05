@@ -32,10 +32,15 @@ I help organizations assess their digital accessibility maturity, identify gaps 
 -	Co-led cross-disciplinary projects with DEI
 -	Provided support for disabled employees seeking help with accommodation requests for AT and related tools
 
-### Workshop Instructor, [School of Visual Concepts](https://www.svcseattle.com/): July 2013 – July 2020
+### Workshop Instructor, [School of Visual Concepts](https://www.svcseattle.com/): July 2013 – present
 
--	Designed and delivered in-person and online workshops for product teams and UX designers to teach accessibility best practice, standards, processes, AT, and roles
--	Taught 5-week crash courses on HTML5, CSS, and CMS best practices
+Designs and delivers in-person and online workshops for product teams and UX designers to teach:
+
+- Accessibility best practices for UX design
+- Digital accessibility standards
+- Roles and responsibilities
+- Tools and workflows
+- Sustainable processes
 
 ### Accessibility Consultant, [Simply Accessible](https://web.archive.org/web/20210817225046/https://simplyaccessible.com/)/Level Access: August 2015 – May 2018
 
