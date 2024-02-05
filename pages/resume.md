@@ -15,7 +15,17 @@ eleventyNavigation:
 
 I help organizations assess their digital accessibility maturity, identify gaps in processes and workflows, and scale accessibility programming, with an approach that centers the needs of people with disabilities, beyond compliance. I also mentor folks who are new to the digital accessibility space to help them have sustainable careers.
 
-#### Accessibility Specialist and Accessibility Operations Program Manager, [Shopify](https://www.shopify.com/): May 2018 – November 2021
+### Workshop Instructor, School of Visual Concepts: July 2013 – present
+
+Designs and delivers in-person and online workshops for product teams and UX designers to teach:
+
+- Accessibility best practices for UX design
+- Digital accessibility standards
+- Roles and responsibilities
+- Tools and workflows
+- Sustainable processes
+
+### Accessibility Specialist and Accessibility Operations Program Manager, [Shopify](https://www.shopify.com/): May 2018 – November 2021
 
 -	Developed and managed roadmap for AODA compliance for core product
 -	Responsible for requests for proposals and managing relationships with vendors
@@ -31,16 +41,6 @@ I help organizations assess their digital accessibility maturity, identify gaps 
 -	SME for design system team, providing education and support for design, implementation, testing, and documentation in a React JS environment
 -	Co-led cross-disciplinary projects with DEI
 -	Provided support for disabled employees seeking help with accommodation requests for AT and related tools
-
-### Workshop Instructor, [School of Visual Concepts](https://www.svcseattle.com/): July 2013 – present
-
-Designs and delivers in-person and online workshops for product teams and UX designers to teach:
-
-- Accessibility best practices for UX design
-- Digital accessibility standards
-- Roles and responsibilities
-- Tools and workflows
-- Sustainable processes
 
 ### Accessibility Consultant, [Simply Accessible](https://web.archive.org/web/20210817225046/https://simplyaccessible.com/)/Level Access: August 2015 – May 2018
 
