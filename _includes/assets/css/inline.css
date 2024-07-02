@@ -90,6 +90,13 @@ img {
 	float: right;
 }
 
+.bookcover {
+	width: auto;
+	height: auto;
+	margin: 0 0 1em 1em;
+	float: right;
+}
+
 @media only screen and (max-width: 500px) {
 	.portrait {
 		width: 100%;
