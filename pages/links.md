@@ -20,8 +20,10 @@ This is a collection of articles, talks, and discussions of which I'm particular
 
 ## Videos
 
+- [5 must-haves of accessible design](https://youtu.be/x1AoJsrkuho?si=iMPsA87T9y_o9m1d&t=417) for the School of Visual Concepts, 2023
 - [Accessibility is hard, and other myths](https://www.youtube.com/watch?v=7jho7wC1t6c) for A11yTalks, 2021
-- [Making your website more accessible](https://www.youtube.com/watch?v=e9yX5n9GRFM) for MagsBC, 2017
+- [Building a sustainable accessibility practice](https://youtu.be/vhyWFrwJTtY?si=l5ma3-Mzh0Uou9V2) for SeattleJS, 2017 (11 minutes)
+- [Making your website more accessible](https://www.youtube.com/watch?v=e9yX5n9GRFM) for MagsBC, 2017 (60 minutes)
 - [Getting started with accessibility for design and development](https://www.youtube.com/watch?v=VPrFSy3X67E) for Geekfest Seattle, 2016
 - [Ambient librarianship](https://www.youtube.com/watch?v=zuGO_kuhZZE) for Ignite Ann Arbor, 2009
 
