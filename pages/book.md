@@ -19,7 +19,7 @@ There is a strong tendency among digital accessibility practitioners to put thei
 
 This book is two things. The first is a crash course in frameworks and ways of thinking from fields like information science, organizational theory, and DEI. The second is a walkthrough of building and operationalizing sustainable, data-driven accessibility programming. The focus is always on saving your time and energy for the long haul, while centering the needs and realities of the disabled people you're serving.
 
-[Read some excerpts](http://example.com)
+[Read some excerpts.](/posts/book-excerpts/index.html)
 
 There are a few ways to buy this book.
 

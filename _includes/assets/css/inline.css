@@ -6,6 +6,9 @@
 	--highlight: #FA8991;
 }
 
+.light {display: none;}
+.dark {display: inherit;}
+
 @media (prefers-color-scheme: light) {
 	:root {
 		--foreground: #232023;
@@ -14,6 +17,9 @@
 		--link: #2D473C;
 		--highlight: #ab2f37;
 	}
+
+	.dark {display: none;}
+	.light {display: inherit;}
 }
 
 *, *:before, *:after {
@@ -86,7 +92,7 @@ img {
 .portrait {
 	width: 50%;
 	height: auto;
-	margin: 0 0 1em 1em;
+	margin: 0 0 0 1em;
 	float: right;
 }
 
@@ -186,7 +192,11 @@ header nav li a[data-current] {
 }
 
 small, figcaption {
-	font-size: 0.8em;
+	font-size: 0.9em;
+}
+
+figcaption {
+	margin: 1em 1em 1em 0;
 }
 
 /* Posts List */
