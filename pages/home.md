@@ -15,8 +15,6 @@ eleventyNavigation:
   <figcaption>Illustration by <a href="https://covatar.com/collections/tsunaeshis-style">Tsunaeshi</a></figcaption>
 </figure>
 
-I’m an independent accessibility specialist and mentor based in Seattle, WA, USA. I approach accessibility holistically, practically, and strategically.
+I’m an independent digital accessibility consultant who focuses on accessibility education and operations. I help organizations create accessibility programming and workflows that center equity and inclusion for disabled people. I also mentor folks who are new to the accessibility space to help them grow their skills in UX design, research, and programming.
 
-I’ve worked in agencies, product companies, non-profits, ecommerce, higher education, and social services. I love mentoring folks who are looking to grow as accessibility professionals, as well as working with organizations to improve their accessibility thinking, processes, workflows, and education.
-
-I'm writing a book called [_The Accessibility Operations Guidebook_](/posts/writing-a-book/). You can follow updates and contribute to this project via [Ko-Fi](https://ko-fi.com/a11ydevon).
+I've written a book called [_The Accessibility Operations Guidebook_](/book/), which will be available in fall of 2024.

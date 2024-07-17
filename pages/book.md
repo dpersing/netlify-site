@@ -19,12 +19,11 @@ There is a strong tendency among digital accessibility practitioners to put thei
 
 This book is two things. The first is a crash course in frameworks and ways of thinking from fields like information science, organizational theory, and DEI. The second is a walkthrough of building and operationalizing sustainable, data-driven accessibility programming. The focus is always on saving your time and energy for the long haul, while centering the needs and realities of the disabled people you're serving.
 
-[Read an excerpt](http://example.com)
+[Read some excerpts](http://example.com)
 
-This first edition of _The Accessibility Operations Guidebook_ will be available as a DRM-free EPUB through Payhip, as well as in paperback and Kindle (MOBI) formats from Amazon.
+There are a few ways to buy this book.
 
-[Pre-order on Ko-Fi](https://ko-fi.com/a11ydevon)
-
-[Buy on Payhip](http://example.com)
-
-[Buy on Amazon](http://example.com)
+- [Pre-order ebook on Ko-Fi](https://ko-fi.com/a11ydevon)
+- [Buy DRM-free ebook on Payhip](http://example.com)
+- [Buy Kindle or print on Amazon](http://example.com)
+- [Buy ebook on KOBO](http://example.com)
