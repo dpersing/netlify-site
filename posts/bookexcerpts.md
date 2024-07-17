@@ -1,10 +1,10 @@
 ---
 title: Excerpts from The Accessibility Operations Guidebook | Devon Persing
 permalink: posts/book-excerpts/index.html
-metaDescription: adfasdfadsf
+metaDescription: Read excerpts from the introduction and three chapters from The Accessibility Operations Guidebook.
 date: 2024-07-17
 author: Devon Persing
-summary: afasfsaf
+summary: Read excerpts from the introduction and three chapters.
 displaytitle: Excerpts from The Accessibility Operations Guidebook
 ---
 
@@ -12,9 +12,9 @@ displaytitle: Excerpts from The Accessibility Operations Guidebook
 
 This book has two parts.
 
-Part 1: Theory is a crash course in theories and frameworks I’ve found to be useful in understanding and doing this work. Chapters in this section are about burnout, education and literacy, organizations, communities, and intersectionality and disability. None of these chapters are exhaustive. They are designed to get you thinking about ideas you might not have considered before, and to give you the vocabulary to dive into your own research.
+**Part 1: Theory** is a crash course in theories and frameworks I’ve found to be useful in understanding and doing this work. Chapters in this section are about burnout, education and literacy, organizations, communities, and intersectionality and disability. None of these chapters are exhaustive. They are designed to get you thinking about ideas you might not have considered before, and to give you the vocabulary to dive into your own research.
 
-Part 2: Practice is about the practice of doing accessibility work. It’s about operations, communication, services, program management, and planning. This section will (hopefully) help you consider the types of activities you can do based on your needs, resources, goals, and the ways you want to grow your practice.
+**Part 2: Practice** is about the practice of doing accessibility work. It’s about operations, communication, services, program management, and planning. This section will (hopefully) help you consider the types of activities you can do based on your needs, resources, goals, and the ways you want to grow your practice.
 
 ## From Chapter 3: Accessibility literacy
 
@@ -47,7 +47,7 @@ ALF has 5 frames. They capture different facets of how accessibility literacy fi
 <figure>
   <img class="light" src="/static/img/literacy_example_light.png" alt="The frames represented in a spider graph, where a person has a rating for each frame on a scale from none to high.">
   <img class="dark" src="/static/img/literacy_example_dark.png" alt="The frames represented in a spider graph, where a person has a rating for each frame on a scale from none to high.">
-  <figcaption>A person might have different levels of experience in each frame.</figcaption>
+  <figcaption><strong>Figure 1:</strong> A person might have different levels of experience in each frame.</figcaption>
 </figure>
 
 #### Guidelines and practices
@@ -89,6 +89,46 @@ How aware is a person of ableism and its impacts?  Can they:
 - Understand how ableism intersects with other axes of oppression
 - Evaluate biases about ableism, accessibility, and disability (including their own)
 - Use their accessibility literacy skills to do anti-ableist work
+
+## From Chapter 9: Communication and coalition
+
+### Identifying helpers and adversaries
+
+Any sort of change management work is going to come up against people with different levels of enthusiasm. If you think back to Chapter 4, you’ll recall that people come along for change in several phases across a bell curve. Some people are bought-in immediately. Others take time and only join kicking and screaming.
+
+I think it’s important to consider when people come on board. It’s also important to consider what people become in this work. Wherever you are in your work, you will also establish relationships with different people. As an instigator, you are forming a web of connections. Some will want to help you in the day-to-day work, and others will be able to provide support from afar.
+
+We already talked about different ways to organize other workers in relation to change management in Chapter 4. I’d like to propose a few categories or roles of what people become in the work to help us think about what they can best do to help with the work. First let’s talk about people who can help us.
+
+#### Instigators
+
+Instigators are your most involved helpers. They are your comrades. They have your back and aren’t interested in doing the work performatively. These are the folks you vibe with regarding this work, and who you can be more honest and collaborative with in your communication. They will most likely be ICs, but they may also be PM/POs, people managers, or directors, as well as people from internal teams like DEI, knowledge management, or people that work in user-facing roles, like customer support. You may find them early in the work as co-instigators, or you may find them as you go.
+
+#### Champions
+
+It’s pretty standard at this point to call a group of pro-accessibility folks a champions network or similar. These are people who aren’t collaborating with you day to day, and don’t have traditional power in the organization, but are somewhere in between. Champions carry the message to their teams, so they may be your primary connection to some teams and projects. Accessibility is part of their job, but they don’t make it their job.
+
+#### Sponsors
+
+Sponsors are a bit further removed, but they are still supportive. They are most likely senior individual contributors (ICs), project/program managers or product owners (PM/POs), and directors, people with some level of traditional power in the organization. These are the folks who can sign off on a pilot program or be a sponsor for a community of practice. They help enable the work but aren’t in it day to day. Your relationship with them is a bit more formal, so communication should reflect that.
+
+People who legitimately care about the product and have the authority to leverage that care can become excellent sponsors even if they aren’t personally invested in accessibility work. If they think of accessibility like security or localization, they’re sponsor material.
+
+#### Adversaries
+
+Occasionally you will run into a person who actively works against your efforts. I don’t mean that they drag their feet. I mean they actively push back. They consider accessibility a waste of time and money and think the same thing about other DEI efforts. Typically, these are not folks who back any “progressive” cause in any real way. The common denominator for them is that these things don’t make money, and therefore they are not worthwhile.
+
+In a best-case scenario, the simplest thing we can do is just not engage with bad actors. If there are power lines that flow around that person instead of through them, those are probably better options for you. This gets very difficult when that bad actor is your manager, or your director, or your CEO, though.
+
+Odds are, if they are truly against what you’re trying to do, they are against similar work that other people are trying to do around equity, belonging, and making the organization more stable and hospitable. There are probably other people they’ve pissed off, and those people might be good collaborators.
+
+Sometimes it’s only possible to make progress in part of the organization, based on how it’s currently organized and based on how much energy and power you have. And that’s okay.
+
+<figure>
+  <img class="light" src="/static/img/helpers_and_adversaries_light.png" alt="A diagram where the 'everybody' of an organization is represented by a large circle. Inside it are four smaller circles, one each for instigators, champions, sponsors and adversaries. The biggest circle by far is the one for champions.">
+  <img class="dark" src="/static/img/helpers_and_adversaries_dark.png" alt="A diagram where the 'everybody' of an organization is represented by a large circle. Inside it are four smaller circles, one each for instigators, champions, sponsors and adversaries. The biggest circle by far is the one for champions.">
+  <figcaption><strong>Figure 2:</strong> A diagram of instigators, champions, sponsors, and adversaries. The circles of the first three are touching each other because they are often connected by power lines in the organization.</figcaption>
+</figure>
 
 ## From Chapter 11: Overview of a program
 
