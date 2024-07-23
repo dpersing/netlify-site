@@ -94,11 +94,11 @@ How aware is a person of ableism and its impacts?  Can they:
 
 ### Identifying helpers and adversaries
 
-Any sort of change management work is going to come up against people with different levels of enthusiasm. If you think back to Chapter 4, you’ll recall that people come along for change in several phases across a bell curve. Some people are bought-in immediately. Others take time and only join kicking and screaming.
+Any sort of change management work is going to come up against people with different levels of enthusiasm. If you think back to Chapter 4: Organizations, you’ll recall that people come along for change in several phases across a bell curve. Some people are bought-in immediately. Others take time and only join kicking and screaming.
 
 I think it’s important to consider when people come on board. It’s also important to consider what people become in this work. Wherever you are in your work, you will also establish relationships with different people. As an instigator, you are forming a web of connections. Some will want to help you in the day-to-day work, and others will be able to provide support from afar.
 
-We already talked about different ways to organize other workers in relation to change management in Chapter 4. I’d like to propose a few categories or roles of what people become in the work to help us think about what they can best do to help with the work. First let’s talk about people who can help us.
+We already talked about different ways to organize other workers in relation to change management. I’d like to propose a few categories or roles of what people become in the work to help us think about what they can best do to help with the work. First let’s talk about people who can help us.
 
 #### Instigators
 
@@ -169,4 +169,4 @@ If you are already providing two or more accessibility activities or services, y
 
 If you aren’t already running a program, a good time to start one is when you feel like you have grassroots support. That is, when the organization climate is pro-accessibility. Ideally the organization culture isn’t actively hostile to accessibility, but you can do this work in any case.
 
-If you’re worried about your bias and you aren’t sure if grassroots support is there, one of your first activities should be to learn about people’s attitudes about accessibility, which we’ll talk more about in Chapter 12.
+If you’re worried about your bias and you aren’t sure if grassroots support is there, one of your first activities should be to learn about people’s attitudes about accessibility, which we’ll talk more about in Chapter 12: Organizational needs.
