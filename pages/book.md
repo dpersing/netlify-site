@@ -19,11 +19,21 @@ There is a strong tendency among digital accessibility practitioners to put thei
 
 This book is two things. The first is a crash course in frameworks and ways of thinking from fields like information science, organizational theory, and DEI. The second is a walkthrough of building and operationalizing sustainable, data-driven accessibility programming. The focus is always on saving your time and energy for the long haul, while centering the needs and realities of the disabled people you're serving.
 
-[Read some excerpts.](/posts/book-excerpts/index.html)
+## Excerpts and resources
+
+- [Excerpts](/posts/book-excerpts/)
+- [Accessibilty maturity model data (Excel .xlsx)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
+- [Resource list](/posts/book-resources/)
+
+## Buy
 
 There are a few ways to buy this book.
 
-- [Pre-order ebook on Ko-Fi](https://ko-fi.com/a11ydevon)
-- [Buy DRM-free ebook on Payhip](http://example.com)
-- [Buy Kindle or print on Amazon](http://example.com)
-- [Buy ebook on KOBO](http://example.com)
+- Payhip (DRM-free ebook)
+- Amazon (Kindle and paperback)
+- KOBO (Ebook)
+
+- [Pre-order DRM-free ebook on Ko-Fi](https://ko-fi.com/a11ydevon)
+- Buy DRM-free ebook on Payhip
+- Pre-order on Amazon
+- Buy ebook on KOBO
