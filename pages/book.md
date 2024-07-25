@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/book.njk
 title: The Accessibility Operations Guidebook | Devon Persing
 metaDescription: Lessons in making digital accessibility work more practical and sustainable for you and your organization.
 date: 2024-07-06
