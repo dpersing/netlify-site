@@ -25,15 +25,14 @@ This book is two things. The first is a crash course in frameworks and ways of t
 - [Accessibilty maturity model data (Excel .xlsx)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
 - [Resource list](/posts/book-resources/)
 
-## Buy
+## Availability
 
-There are a few ways to buy this book.
+_The Accessibility Operations Guidebook_ will be available as an ebook in fall of 2024. You'll be able to buy it on Payhip (DRM-free), Amazon (for Kindle), and KOBO. It will be available in print paperback from Amazon in winter of 2024.
 
-- Payhip (DRM-free ebook)
-- Amazon (Kindle and paperback)
-- KOBO (Ebook)
+## Pre-order
 
-- [Pre-order DRM-free ebook on Ko-Fi](https://ko-fi.com/a11ydevon)
-- Buy DRM-free ebook on Payhip
-- Pre-order on Amazon
-- Buy ebook on KOBO
+If you'd like to pre-order the book, you can do so by contributing to my [Ko-Fi](https://ko-fi.com/a11ydevon). This contribution is pay-what-you-want and will get you a DRM-free EPUB when it's ready.
+
+## Get notified
+
+Want to get notified when the book comes out? Send me your name and email address and I'll let you know. (And I won't use this information for anything else!)

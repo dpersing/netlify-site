@@ -112,7 +112,7 @@ Okun, Tema. “[(Divorcing) White supremacy culture](https://www.whitesupremacyc
 
 1. Bigelow, Stephen J., Meredith Courtemanche, and Alexander S. Gillis. “[What Is DevOps? The Ultimate Guide](https://www.techtarget.com/searchitoperations/definition/DevOps).” Search IT Operations. Last updated February 2024.
 GitHub Resources. “What is DevOps?” Accessed June 28, 2024. https://resources.github.com/devops/.
-1. Wulff, Kristin and Finnestrand Hanne. “[It is Like Taking a Ball for a Walk: On Boundary Work in Software Development](https://doi.org/10.1007/s00146-021-01175-3).” AI & Society 37, no. 2 (June 2022): 711-724.
+1. Wulff, Kristin and Finnestrand Hanne. “[It is Like Taking a Ball for a Walk: On Boundary Work in Software Development](https://doi.org/10.1007/s00146-021-01175-3).” _AI & Society_ 37, no. 2 (June 2022): 711-724.
 
 ## Chapter 8: A case study
 
