@@ -5,7 +5,7 @@ date: 2022-05-18
 permalink: /resume/index.html
 eleventyNavigation:
   key: Resume
-  order: 1
+  order: 3
 ---
 # Resume
 

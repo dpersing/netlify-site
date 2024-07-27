@@ -6,7 +6,7 @@ date: 2024-07-06
 permalink: /book/index.html
 eleventyNavigation:
   key: Book
-  order: 5
+  order: 2
 ---
 
 # The Accessibility Operations Guidebook
