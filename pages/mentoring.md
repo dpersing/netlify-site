@@ -4,9 +4,6 @@ title: Mentoring | Devon Persing
 metaDescription: Looking for a mentor in the digital accessibility space? I offer a few ways to connect with me to talk about your goals and where you might go next.
 date: 2023-06-01
 permalink: /mentoring/index.html
-eleventyNavigation:
-  key: Mentoring
-  order: 3
 ---
 # Mentoring
 

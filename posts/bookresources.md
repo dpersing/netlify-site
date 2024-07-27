@@ -105,7 +105,7 @@ Okun, Tema. “[(Divorcing) White supremacy culture](https://www.whitesupremacyc
 1. Rynders, Dustin. “[Battling Implicit Bias in the IDEA to Advocate for African American Students with Disabilities](https://digitalcommons.tourolaw.edu/lawreview/vol35/iss1/18/).” _Touro Law Review_ 35, no. 1 (2019).
 1. Sarkar, Sonia. “[Disability Justice—in the Workplace (and Beyond)](https://nonprofitquarterly.org/disability-justice-in-the-workplace-and-beyond/).” Non Profit News, February 28, 2023.
 1. School of Disability Studies and X University. _[Digital Methods for Disability Studies](https://pressbooks.library.torontomu.ca/digitaldisabilitystudies/)_. Ryerson University Pressbooks, 2022.
-1. Sins Invalid. _Skin, Tooth, and Bone: The Basis of Movement is Our People, A Disability Justice Primer_. Berkeley, CA, 2019.
+1. Sins Invalid. _[Skin, Tooth, and Bone: The Basis of Movement is Our People, A Disability Justice Primer](https://www.sinsinvalid.org/disability-justice-primer)_. Berkeley, CA, 2019.
 1. Wong, Alice. “[Ep 34: Intersectionality](https://disabilityvisibilityproject.com/2018/09/24/ep-34-intersectionality/).” Disability Visibility Project. September 25, 2018. Audio, 34:19.
 
 ## Chapter 7: Accessibility operations
@@ -124,14 +124,14 @@ GitHub Resources. “What is DevOps?” Accessed June 28, 2024. https://resource
 
 1. Grant, Anett. “[Your Guide to Communicating with Upper Management](https://www.fastcompany.com/3049998/your-guide-to-communicating-with-upper-management).” Fast Company. August 19, 2015.
 1. Harris, Grant T. “[How to Brief a Senior Executive](https://hbr.org/2020/11/how-to-brief-a-senior-executive).” Harvard Business Review. November 10, 2020.
-1. Jiang, Zhenyu, Zongjun Wang, and Chengxiao Feng. “[Choosing a Better Communication Style: Revealing the Relationship Between Communication Style and Knowledge Hiding Behaviour](https://doi.org/10.1057/s41599-023-02063-5).” Humanities & Social Sciences Communications 10, no. 1 (September 1, 2023).
+1. Jiang, Zhenyu, Zongjun Wang, and Chengxiao Feng. “[Choosing a Better Communication Style: Revealing the Relationship Between Communication Style and Knowledge Hiding Behaviour](https://doi.org/10.1057/s41599-023-02063-5).” _Humanities & Social Sciences Communications_ 10, no. 1 (September 1, 2023).
 1. Wenger, Etienne. _Communities of Practice_. Cambridge University Press, 2008.
 
 ## Chapter 10: Service activities
 
 1. Bailey, Eric. “[Accessibility Auditing and Ego](https://ericwbailey.website/published/accessibility-auditing-and-ego/).” February 9, 2021.
 1. Kuhlthau, Carol Collier. _Seeking Meaning: A Process Approach to Library and Information Services_. Libraries Unlimited, 2004.
-1. O Connor, Joshue. “[Is The Accessibility Audit Dead?](https://doi.org/10.1007/978-3-642-14097-6_66)” In Lecture Notes in Computer Science 6179 (2010): 413–16.
+1. O Connor, Joshue. “[Is The Accessibility Audit Dead?](https://doi.org/10.1007/978-3-642-14097-6_66)” In _Lecture Notes in Computer Science_ 6179 (2010): 413–16.
 1. Williams, Michele A. “[Conducting Accessibility Research in an Inaccessible Ecosystem](https://www.smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/).” Smashing Magazine. April 25, 2024.
 
 ## Chapter 11: Overview of a program
