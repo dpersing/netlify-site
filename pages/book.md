@@ -22,7 +22,7 @@ This book is two things. The first is a crash course in frameworks and ways of t
 ## Excerpts and resources
 
 - [Excerpts](/posts/book-excerpts/)
-- [Accessibilty maturity model data (Excel .xlsx)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
+- [Accessibilty maturity model sample data (Excel .xlsx file)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
 - [Resource list](/posts/book-resources/)
 
 ## Availability
@@ -31,7 +31,7 @@ _The Accessibility Operations Guidebook_ will be available as an ebook in fall o
 
 ## Pre-order
 
-If you'd like to pre-order the book, you can do so by contributing to my [Ko-Fi](https://ko-fi.com/a11ydevon). This contribution is pay-what-you-want and will get you a DRM-free EPUB when it's ready.
+If you'd like to pre-order the book right now, you can do so by contributing to my [Ko-Fi](https://ko-fi.com/a11ydevon). This contribution is pay-what-you-want. In exchange, you will get a lovingly hand-crafted, DRM-free EPUB to read with your ebook program or device of choice, when it's ready.
 
 ## Get notified
 
