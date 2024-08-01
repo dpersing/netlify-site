@@ -21,4 +21,4 @@ I’m an independent digital accessibility consultant. I focus on accessibility 
 - Relationships
 - Equity for disabled people
 
-I've written a book called _[The Accessibility Operations Guidebook](/book/)_. which is currently in beta review. It will be available in fall of 2024.
+I've written a book called _[The Accessibility Operations Guidebook](/book/)_. It will be available in fall of 2024.
