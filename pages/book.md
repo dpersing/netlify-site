@@ -11,9 +11,9 @@ eleventyNavigation:
 
 # The Accessibility Operations Guidebook
 
-**Lessons in making digital accessibility work more practical and sustainable for you and your organization.**
+**For making digital accessibility work more sustainable (for you and your organization).**
 
-<img class="bookcover" alt="Cover art for the book, showing white text on a gray background. The author's name is applied with a sticky note." src="/static/img/TOAG.png" />
+<img class="bookcover" alt="Cover art for the book, showing white text on a green background. The author's name is applied with a sticky note." src="/static/img/TAOG_ebook_cover.png" />
 
 There is a strong tendency among digital accessibility practitioners to put their work before themselves, leading to burnout. I know that firsthand, and this book is a tool to help you avoid that.
 
@@ -21,13 +21,13 @@ This book is two things. The first is a crash course in frameworks and ways of t
 
 ## Excerpts and resources
 
-- [Excerpts](/posts/book-excerpts/)
+- [Beta draft excerpts](/posts/book-excerpts/)
 - [Accessibilty maturity model sample data (Excel .xlsx file)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
 - [Resource list](/posts/book-resources/)
 
 ## Availability
 
-_The Accessibility Operations Guidebook_ will be available as an ebook in fall of 2024. You'll be able to buy it on Payhip (DRM-free), Amazon (for Kindle), and KOBO. It will be available in print paperback from Amazon in winter of 2024.
+_The Accessibility Operations Guidebook_ will be available as an ebook in fall of 2024. You'll be able to buy it on Payhip (DRM-free), Amazon (for Kindle), and KOBO (DRM-free). It will be available in print paperback during winter 2024/2025.
 
 ## Pre-order
 
