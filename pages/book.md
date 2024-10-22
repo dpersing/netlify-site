@@ -24,5 +24,5 @@ This book is two things. The first is a crash course in frameworks and ways of t
 ## Excerpts and resources
 
 - [Beta draft excerpts](/posts/book-excerpts/)
-- [Accessibilty maturity model sample data (Excel .xlsx file)](/static/files/A11yMaturityTemplate_CaseStudySample.xlsx)
+- [Accessibilty maturity model sample data (Excel .xlsx file)](/static/img/A11yMaturityTemplate_CaseStudySample.xlsx)
 - [Resource list](/posts/book-resources/)
