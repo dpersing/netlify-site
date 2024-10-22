@@ -15,10 +15,8 @@ eleventyNavigation:
   <figcaption>Illustration by <a href="https://covatar.com/collections/tsunaeshis-style">Tsunaeshi</a></figcaption>
 </figure>
 
-I’m an independent digital accessibility consultant. I focus on accessibility education and operations. I help organizations create programs built on:
+I’m an independent digital accessibility consultant and the author of _[The Accessibility Operations Guidebook](/book/)_. I focus on accessibility education and operations. I help organizations create programs built on:
 
 -  Sustainability
 - Relationships
 - Equity for disabled people
-
-I've written a book called _[The Accessibility Operations Guidebook](/book/)_. It will be available in fall of 2024.

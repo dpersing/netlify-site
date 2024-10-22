@@ -11,4 +11,4 @@ eleventyNavigation:
 ---
 # Contact
 
-Have a question about how I can help your organization with a workshop, speaking engagement, or consulting? Interested in mentoring? Have questions about my book? Let me know here, or reach out on [LinkedIn](https://www.linkedin.com/in/devonpersing/). Talk to you soon!
+ Interested in having me teach, speak, or consult at your organization? Looking for a mentor in the digital accessibility field? Have questions about my book? Let me know here, or reach out on [LinkedIn](https://www.linkedin.com/in/devonpersing/). Talk to you soon!
