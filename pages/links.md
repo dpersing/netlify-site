@@ -22,6 +22,7 @@ This is a collection of articles, talks, and discussions published elsewhere.
 
 ## Videos
 
+- [Accessible UX: Design for the rest of us](https://www.youtube.com/watch?v=15U3sZmXL4I) for Web Accessibility in Mind, 2024 (60 minutes)
 - [5 must-haves of accessible design](https://youtu.be/x1AoJsrkuho?si=iMPsA87T9y_o9m1d&t=417) for the School of Visual Concepts, 2023 (50 minutes)
 - [Accessibility is hard, and other myths](https://www.youtube.com/watch?v=7jho7wC1t6c) for A11yTalks, 2021 (60 minutes)
 - [Building a sustainable accessibility practice](https://youtu.be/vhyWFrwJTtY?si=l5ma3-Mzh0Uou9V2) for SeattleJS, 2017 (11 minutes)
