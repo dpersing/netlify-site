@@ -30,8 +30,4 @@ Did I consider not starting the book with this downer of a chapter? I did, many 
 
 Unless we're clear about the world we don't want, it's harder to describe and realize the world we do want.
 
-So my question for you is this, choose-your-own-adventure style:
-
-- If you haven't experienced burnout, what's helped you avoid burnout?
-- If you're in burnout recovery, what's one thing that's helping you slow down?
-- If you're post-burnout, what helped you you? What has reconnected you to yourself?
+**What's your relationship to burnout been? Has it made you think differently about your work? Yourself?**
