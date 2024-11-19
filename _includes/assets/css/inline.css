@@ -69,6 +69,10 @@ ul ul li:first-child {
 	margin-top: .5em;
 }
 
+blockquote {
+	color: var(--focus);
+}
+
 a[href] {
 	color: var(--link);
 }
