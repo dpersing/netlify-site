@@ -16,6 +16,7 @@ This is a collection of articles, talks, and discussions published elsewhere.
 
 ## Articles
 
+- [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems) for Assistiv Labs, 2025
 - [Accessibility is more than a technical problem](https://ux.shopify.com/accessibility-is-more-than-a-technical-problem-ca6bb9dee8ce) for Shopify UX, 2021
 - [World-building accessibility literacy](https://www.24a11y.com/2019/world-building-accessibility-literacy/) for 24 Accessibility, 2019
 - [The accessibility stack](https://web.archive.org/web/20210211003545/http://simplyaccessible.com/article/the-accessibility-stack/) for Simply Accessible, 2016
