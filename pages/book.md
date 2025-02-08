@@ -13,9 +13,47 @@ eleventyNavigation:
 
 **To making accessibility work more sustainable**
 
-Buy an EPUB bundle on [Payhip](https://payhip.com/b/OSyLt), or order to your device on [Kobo](https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook) or [Amazon](https://www.amazon.com/dp/B0DK7SWKTB). All versions are without digital rights management (DRM).
+<ul class="bundles products">
+  <li>
+    <span class="icons">
+      <img alt="" src="/static/img/paperback.png">
+      <img alt="" src="/static/img/ebook.png">
+      <img alt="" src="/static/img/ebook_green.png">
+    </span>
+    <span class="deets">
+      <span class="cost">24 USD</span>
+      <span class="format">Paperback + ebook bundle</span>
+      <small>(Print edition includes a code to download ebook bundle)</small>
+      <a href="https://www.amazon.com/dp/B0DK7SWKTB">Amazon</a>
+    </span>
+  </li>
+  <li>
+    <span class="icons">
+      <img alt="" src="/static/img/ebook.png">
+      <img alt="" src="/static/img/ebook_green.png">
+    </span>
+    <span class="cost">20 USD</span>
+    <span class="format">Ebook bundle</span>
+    <span>(EPUB + Kindle files)</span>
+    <a href="https://payhip.com/b/OSyLt">Payhip</a>
+  </li>
+  <li>
+    <span>
+      <img alt="" src="/static/img/ebook.png">
+    </span>
+    <span class="cost">18 USD</span>
+    <a class="format" href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB/">Kindle ebook</a>
+  </li>
+  <li>
+    <span>
+      <img alt="" src="/static/img/ebook_green.png">
+    </span>
+    <span class="cost">18 USD</span>
+    <a class="format" href="https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook">Kobo ebook</a>
+  </li>
+</ul>
 
-<img class="bookcover" alt="Cover art for the book, showing white text on a green background. The author's name is applied with a sticky note." src="/static/img/toag_cover.jpg" />
+## What it's all about
 
 There is a tendency among accessibility practitioners to put their work before themselves, leading to burnout. I know that firsthand, and this book is a tool to help you avoid the same fate.
 

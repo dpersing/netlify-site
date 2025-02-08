@@ -243,7 +243,46 @@ a[rel="tag"]:last-child {
 	margin-right: 0;
 }
 
-*/
+/* Book products */
+
+.products {
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.products, .products li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.products li {
+	padding: 20px;
+}
+
+.products span, .products small, .products a {
+	display: block;
+}
+
+.products .cost {
+	font-size: 1.4em;
+}
+
+.products .format, .products a {
+	font-size: 1.2em;
+}
+
+@media only screen and (max-width: 600px) {
+	.products {
+			grid-template-columns: none;
+			display: block;
+	}
+
+	.products li {
+		width: 100%;
+	}
+}
 
 /* Contact Form */
 form {
