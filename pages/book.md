@@ -13,43 +13,55 @@ eleventyNavigation:
 
 **To making accessibility work more sustainable**
 
+## Available in paperback and ebook
+
 <ul class="bundles products">
   <li>
-    <span class="icons">
+    <div class="icons">
       <img alt="" src="/static/img/paperback.png">
       <img alt="" src="/static/img/ebook.png">
       <img alt="" src="/static/img/ebook_green.png">
-    </span>
-    <span class="deets">
+    </div>
+    <div class="deets">
+      <h3 class="format">Paperback + ebook bundle</h3>
       <span class="cost">24 USD</span>
-      <span class="format">Paperback + ebook bundle</span>
-      <small>(Print edition includes a code to download ebook bundle)</small>
-      <a href="https://www.amazon.com/dp/B0DK7SWKTB">Amazon</a>
-    </span>
+      <small>Print edition includes a code to download ebook bundle</small>
+      <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable/dp/B0DVZFRG4L">Buy paperback on Amazon</a>
+    </div>
   </li>
   <li>
-    <span class="icons">
+    <div class="icons">
       <img alt="" src="/static/img/ebook.png">
       <img alt="" src="/static/img/ebook_green.png">
-    </span>
-    <span class="cost">20 USD</span>
-    <span class="format">Ebook bundle</span>
-    <span>(EPUB + Kindle files)</span>
-    <a href="https://payhip.com/b/OSyLt">Payhip</a>
+    </div>
+    <div class="deets">
+      <h3 class="format">Ebook bundle</h3>
+      <span class="cost">20 USD</span>
+      <small>DRM-free EPUB + Kindle formats</small>
+      <a href="https://payhip.com/b/OSyLt">Buy ebook bundle on Payhip</a>
+    </div>
   </li>
   <li>
-    <span>
+    <div>
       <img alt="" src="/static/img/ebook.png">
-    </span>
-    <span class="cost">18 USD</span>
-    <a class="format" href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB/">Kindle ebook</a>
+    </div>
+    <div class="deets">
+      <h3 class="format">Kindle ebook only</h3>
+      <span class="cost">18 USD</span>
+      <small>MOBI and KPF formats for Kindle apps and devices</small>
+      <a href="ps://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB">Buy ebook on Amazon</a>
+    </div>
   </li>
   <li>
-    <span>
+    <div>
       <img alt="" src="/static/img/ebook_green.png">
-    </span>
-    <span class="cost">18 USD</span>
-    <a class="format" href="https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook">Kobo ebook</a>
+    </div>
+    <div class="deets">
+      <h3 class="format">Kobo ebook only</h3>
+      <span class="cost">18 USD</span>
+      <small>EPUB format for Kobo apps and devices</small>
+      <a class="format" href="https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook">Buy ebook on Kobo</a>
+    </div>
   </li>
 </ul>
 
