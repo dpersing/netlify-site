@@ -8,22 +8,6 @@
 		<header>
 			<em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-				<picture>
-					<source 
-						srcset="{{ '/static/img/logo_96w.webp' | url }}"
-						type="image/webp"
-					>
-					<source
-						srcset="{{ '/static/img/logo_96w.png' | url }}"
-						type="image/png"
-					>
-					<img
-						alt="" 
-						height="32"
-						src="{{ '/static/img/logo_96w.png' | url }}"
-						width="32" 
-					/>
-				</picture>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
