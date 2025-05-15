@@ -14,22 +14,22 @@ When possible, I cited resources that are open access or otherwise public. If yo
 
 1. Mayo Clinic Staff, “[Job Burnout: How to Spot It and Take Action](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642),” Mayo Clinic, November 30, 2023.
 1. Shell Little, “[The Accessibility to Burnout Pipeline (on YouTube)](https://www.youtube.com/watch?v=5gs54WDVBIw),” axe-con, March 17, 2023, video, 50:34.
-1. Atticus Wolfe, “[Incongruous Identities: Mental Distress and Burn-out Disparities in LGBTQ+ Health Care Professional Popula-tions](https://doi.org/10.1016/j.heliyon.2023.e14835),” _Heliyon_ 9, no. 4 (April 1, 2023): e14835.
+1. Atticus Wolfe, “[Incongruous Identities: Mental Distress and Burnout Disparities in LGBTQ+ Health Care Professional Populations](https://doi.org/10.1016/j.heliyon.2023.e14835),” _Heliyon_ 9, no. 4 (April 1, 2023): e14835.
 1. Business Wire, “[New Study: 84% of Employees Report Lack of Progress on Building a More Equitable Workplace for People of Color](https://www.businesswire.com/news/home/20220224005176/en/),” February 24, 2022.
-1. Keri F. Kirk, Jessica Jackson, Sara Sagui-Henson, Emily Wang, Farah Semaan, Maximo R. Prescott, Camille E. Welcome Cham-berlain, Cynthia Castro Sweet, Ellen E. Ijebor, and Lindsey Knott, “[Race-Based Experiences and Coping as Predictors of BIPOC Mental Health Provider Burnout and Stress During COVID-19](https://doi.org/10.1177/26320770231189611),” _Journal of Prevention and Health Promotion_ 4, no. 3-4 (Au-gust 1, 2023).
+1. Keri F. Kirk, Jessica Jackson, Sara Sagui-Henson, Emily Wang, Farah Semaan, Maximo R. Prescott, Camille E. Welcome Chamberlain, Cynthia Castro Sweet, Ellen E. Ijebor, and Lindsey Knott, “[Race-Based Experiences and Coping as Predictors of BIPOC Mental Health Provider Burnout and Stress During COVID-19](https://doi.org/10.1177/26320770231189611),” _Journal of Prevention and Health Promotion_ 4, no. 3–4 (August 1, 2023).
 1. Kirk et al., “Race-Based Experiences.”
 1. Wolfe, “Incongruous Identities.”
-1. Isabel Gutierrez-Martínez, Josefa González-Santos, Paula Rodríguez-Fernández, Alfredo Jiménez-Eguizábal, Jose Antonio Del Barrio-Del Campo, and Jerónimo J. González-Bernal. “[Ex-planatory Factors of Burnout in a Sample of Workers With Disa-bilities From the Special Employment Centres (SEC) of the Amica Association, Spain](https://doi.org/10.3390/ijerph18095036),” _International Journal of Environmental Re-search and Public Health/International Journal of Environmental Research and Public Health_ 18, no. 9 (May 10, 2021): 5036.
-1. Sheri Byrne-Haber, “[Disability Burnout is Real](https://buttondown.email/access-ability/archive/disability-burnout-is-real/),” Access * Ability, November 21, 2023.
+1. Isabel Gutierrez-Martínez, Josefa González-Santos, Paula Rodríguez-Fernández, Alfredo Jiménez-Eguizábal, Jose Antonio Del Barrio-Del Campo, and Jerónimo J. González-Bernal. “[Explanatory Factors of Burnout in a Sample of Workers With Disabilities From the Special Employment Centres (SEC) of the Amica Association, Spain](https://doi.org/10.3390/ijerph18095036),” _International Journal of Environmental Research and Public Health/International Journal of Environmental Research and Public Health_ 18, no. 9 (May 10, 2021): 5036.
+1. Sheri Byrne-Haber, “[Disability Burnout is Real](https://buttondown.email/access-ability/archive/disability-burnout-is-real/),” Access Ability, November 21, 2023.
 1. Katherine Keisler-Starkey, Lisa Bunch, and Rachel Lindstrom, “[Health Insurance Coverage in the United States: 2022](https://www.census.gov/library/publications/2023/demo/p60-281.html),” United States Census Bureau, September 12, 2023.
 1. Pooja Jain-Link and Julia Taylor Kennedy, “[Why People Hide Their Disabilities at Work](https://hbr.org/2019/06/why-people-hide-their-disabilities-at-work),” _Harvard Business Review_, September 13, 2021.
-1. Minkyung Kim and Elizabeth A. Williams, “[Emotional Sustaina-bility in Human Services Organizations: Cultural and Communi-cative Paths to Dealing With Emotional Work](https://doi.org/10.3390/su142215470),” _Sustainability_ 14, no. 22 (November 21, 2022): 15470.
+1. Minkyung Kim and Elizabeth A. Williams, “[Emotional Sustainability in Human Services Organizations: Cultural and Communicative Paths to Dealing With Emotional Work](https://doi.org/10.3390/su142215470),” _Sustainability_ 14, no. 22 (November 21, 2022): 15470.
 1. Kim and Williams, “Emotional Sustainability in Human Services Organizations.”
 1. Hélène Sandmark and Monica Renstig. “[Understanding Long-term Sick Leave in Female White-collar Workers With Burnout and Stress-related Diagnoses: A Qualitative Study](https://doi.org/10.1186/1471-2458-10-210).” _BMC Public Health_ 10, no. 1 (April 26, 2010).
 1. Alba Villamil, Karen Eisenhauer, and Vivianne Castillo, “[Why Corporate Playbooks Fall Short in Tackling Organizational Trauma](https://www.hmntycntrd.com/resources/organizational-trauma),” HmntyCntrd, January 7, 2022.
 1. Kim and Williams, “Emotional Sustainability in Human Services Organizations.”
 1. Wolfe, “Incongruous Identities.”
-1. Richard Boon, Debbie Voltz, Carl Lawson, and Michael Baskette, “[The Impact of High-Stakes Testing for Individuals with Disabilities: A Review Synthesis](https://eric.ed.gov/?id=EJ1140225),” _Journal of the American Academy of Special Education Professionals_ (2007): 54-67.
+1. Richard Boon, Debbie Voltz, Carl Lawson, and Michael Baskette, “[The Impact of High-Stakes Testing for Individuals with Disabilities: A Review Synthesis](https://eric.ed.gov/?id=EJ1140225),” _Journal of the American Academy of Special Education Professionals_ (2007): 54–67.
 1. Villamil et al., “Why Corporate Playbooks Fall Short.”
 1. Devon Persing, “[Accessibility Roles and Hiring Survey 2022 Basic Data](https://devonpersing.netlify.app/posts/survey2022part1/),” February 24, 2022.
 1. Sandmark and Renstig, “Understanding Long-term Sick Leave.”
@@ -41,10 +41,10 @@ When possible, I cited resources that are open access or otherwise public. If yo
 
 ### Additional resources
 
-- Bonaccio, Silvia, et al. “[The Participation of People with Disabilities in the Workplace across the Employment Cycle: Employer Con-cerns and Research Evidence](https://doi.org/10.1007/s10869-018-9602-5).” _Journal of Business and Psychology_ 35 (2020): 135-158.
+- Bonaccio, Silvia, et al. “[The Participation of People with Disabilities in the Workplace across the Employment Cycle: Employer Concerns and Research Evidence](https://doi.org/10.1007/s10869-018-9602-5).” _Journal of Business and Psychology_ 35 (2020): 135–158.
 - “[CPACC Frequently Asked Questions](https://www.accessibilityassociation.org/s/cpacc-frequently-asked).” International Association of Accessibility Professionals (IAAP). Accessed September 7, 2024.
 - Danauskė, Evelina, Agota Giedrė Raišienė, and Renata Korsakienė. “[Coping with burnout? Measuring the links between workplace conflicts, work-related stress, and burnout](https://doi.org/10.3846/btp.2023.16953).” _Business: Theory and Practice_ 24, no. 1 (February 3, 2023): 58-69.
-- Thomas, Janice, and Bill Zwerman. “[Potential barriers on the road to professionalization](https://www.pmi.org/learning/library/potential-barriers-road-professionalization-4855).” PM Network, 15 (April 2001), 50-62.
+- Thomas, Janice, and Bill Zwerman. “[Potential barriers on the road to professionalization](https://www.pmi.org/learning/library/potential-barriers-road-professionalization-4855).” PM Network, 15 (April 2001), 50–62.
 - U.S. Department of Labor. “[Frequently Asked Questions - General](https://www.dol.gov/agencies/odep/publications/faqs/general#3).” Accessed March 1, 2024.
 
 ## Chapter 2: Education and literacy
@@ -70,7 +70,7 @@ When possible, I cited resources that are open access or otherwise public. If yo
 
 ### Additional resources
 
-- Association of College & Research Libraries. “[ACRL Standards: Information Literacy Competency Standards for Higher Education](https://crln.acrl.org/index.php/crlnews/article/view/19242/22395).” College & Research Libraries News 61, no. 3 (March 1, 2000): 207-15.
+- Association of College & Research Libraries. “[ACRL Standards: Information Literacy Competency Standards for Higher Education](https://crln.acrl.org/index.php/crlnews/article/view/19242/22395).” College & Research Libraries News 61, no. 3 (March 1, 2000): 207–15.
 - Persing, Devon. “[Using Accessibility Literacy to Counter Accessibility Ignorance](https://devonpersing.netlify.app/posts/using-accessibility-literacy-to-counter-accessibility-ignorance/).” June 23, 2022.
 
 ## Chapter 4: Organizations
@@ -93,7 +93,7 @@ When possible, I cited resources that are open access or otherwise public. If yo
 ### Additional resources
 
 - “[AbilityNet Digital Accessibility Maturity Model (DAMM)](https://abilitynet.org.uk/accessibility-services/DAMM).” AbilityNet. Accessed September 7, 2024.
-- “[Accessibility Evolution Model: Creating Clarity in your Accessibility Journey](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).” - Microsoft Accessibility Blog. Accessed September 7, 2024.
+- “[Accessibility Evolution Model: Creating Clarity in your Accessibility Journey](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).” Microsoft Accessibility Blog. Accessed September 7, 2024.
 - Chetty, Lameshnee and Martin Mearns. “[Using Communities of Practice Towards the Next Level of Knowledge-management Maturity](https://doi.org/10.4102/sajim.v14i1.503).” _South African Journal of Information Management_ 14, no. 1 (July 23, 2012).
 - Clayton, Sarah Jensen. “[An Agile Approach to Change Management](https://hbr.org/2021/01/an-agile-approach-to-change-management).” _Harvard Business Review_. January 11, 2021.
 - Harrell, Cyd. _A Civic Technologist's Practice Guide_. Five Seven Five Books, 2020.
@@ -117,7 +117,7 @@ When possible, I cited resources that are open access or otherwise public. If yo
 1. Nick Montgomery and carla bergman, _Joyful Militancy: Building Thriving Resistance in Toxic Times_ (AK Press, 2017), 36.
 1. Dean Spade, “[Shit's Totally FUCKED! What Can We Do?: A Mutual Aid Explainer (on YouTube)](https://www.youtube.com/watch?v=PopmGAvsggg),” July 9, 2019, video, 7:54.
 1. Disability Social History Project, “[The 504 Protests and the Black Panther Party](https://disabilityhistory.org/2021/12/19/the-504-protests-and-the-black-panther-party/),” December 19, 2021.
-1. Spade, Mutual Aid, 49.
+1. Spade, _Mutual Aid_, 49.
 
 ### Additional resources
 
@@ -129,12 +129,12 @@ When possible, I cited resources that are open access or otherwise public. If yo
 ## Chapter 6: Intersectionality and disability
 
 1. Disabled World, “Definitions of the Models of Disability,” September 10, 2010.
-1. Derek Bolton, “[A revitalized biopsychosocial model: core theory, research paradigms, and clinical implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10755226/),” _Psychological Medicine_ 53 no. 16 (December 2023): 7504-7511.
+1. Derek Bolton, “[A revitalized biopsychosocial model: core theory, research paradigms, and clinical implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10755226/),” _Psychological Medicine_ 53 no. 16 (December 2023): 7504–7511.
 1. Patty Berne and Stacey Milbern, “[My Body Doesn't Oppress Me, Society Does (on YouTube)](https://www.youtube.com/watch?v=7r0MiGWQY2g),” Barnard Center for Research on Women, May 9, 2017, video, 5:08.
 1. Amy Carney, “[6 Theoretical Models of Disability](https://100daysofa11y.com/2019/11/08/theoretical-models-of-disability/),” 100 Days of A11y, November 8, 2019. Disabled World, “[Definitions of Models of Disability](https://www.disabled-world.com/definitions/disability-models.php).”
 1. Kimberlé Crenshaw, “[Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color](https://doi.org/10.2307/1229039),” _Stanford Law Review_ 43, no. 6 (1991): 1241-99.
 1. Zheng, _DEI Deconstructed_, 54-55.
-1. Liz Szabo, “Medical mistakes are more likely in women and minor-ities,” NBC News, January 15, 2024.
+1. Liz Szabo, “Medical mistakes are more likely in women and minorities,” NBC News, January 15, 2024.
 1. GIVE Guide, “[Intersectionality of Disability and Other Identities & Implicit Bias](https://teachwithgive.org/resource/intersectionality-of-disability-and-other-identities-implicit-bias/),” accessed October 7, 2023.
 1. Rynders, Dustin, “[Battling Implicit Bias in the IDEA to Advocate for African American Students with Disabilities](https://digitalcommons.tourolaw.edu/lawreview/vol35/iss1/18/).” _Touro Law Review_ 35, no. 1 (2019).
 1. GIVE Guide, “Intersectionality of Disability and Other Identities & Implicit Bias.”
@@ -171,7 +171,7 @@ When possible, I cited resources that are open access or otherwise public. If yo
 ### Additional resources
 
 - GitHub Resources. “[What is DevOps?](https://resources.github.com/devops/)” Accessed June 28, 2024.
-- Wulff, Kristin and Finnestrand Hanne. “[It is Like Taking a Ball for a Walk: On Boundary Work in Software Development](https://doi.org/10.1007/s00146-021-01175-3).” _AI & Society_ 37, no. 2 (June 2022): 711-724.
+- Wulff, Kristin and Finnestrand Hanne. “[It is Like Taking a Ball for a Walk: On Boundary Work in Software Development](https://doi.org/10.1007/s00146-021-01175-3).” _AI & Society_ 37, no. 2 (June 2022): 711–724.
 
 ## Chapter 8: A traditional accessibility program case study
 
@@ -184,7 +184,7 @@ When possible, I cited resources that are open access or otherwise public. If yo
 
 ## Chapter 9: Communications and coalition
 
-1. Wenger, _Communities of Practice_, 169-170.
+1. Wenger, _Communities of Practice_, 169–170.
 
 ### Additional resources
 
@@ -198,11 +198,11 @@ When possible, I cited resources that are open access or otherwise public. If yo
 1. Web Accessibility Initiative, “[Read Me First](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/),” ARIA Authoring Practices Guide (APG), accessed June 27, 2024.
 1. “[Part 382—Nondiscrimination On The Basis Of Disability In Air Travel](https://www.ecfr.gov/current/title-14/chapter-II/subchapter-D/part-382).” Code of Federal Regulations. May 13, 2008.
 1. Michele A. Williams, “[Conducting Accessibility Research in an Inaccessible Ecosystem](https://www.smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/),” Smashing Magazine, April 25, 2024.
-1. Carol Collier Kuhlthau, _Seeking Meaning: A Process Approach to Library and Information Services_ (Libraries Unlimited, 2004), 110-111.
+1. Carol Collier Kuhlthau, _Seeking Meaning: A Process Approach to Library and Information Services_ (Libraries Unlimited, 2004), 110–111.
 
 ### Additional resources
 
-- O Connor, Joshue. “[Is The Accessibility Audit Dead?](https://doi.org/10.1007/978-3-642-14097-6_66)” In _Lecture Notes in Computer Science_ 6179 (2010): 413-16.
+- O Connor, Joshue. “[Is The Accessibility Audit Dead?](https://doi.org/10.1007/978-3-642-14097-6_66)” In _Lecture Notes in Computer Science_ 6179 (2010): 413–16.
 
 ## Chapter 11: Overview of a program
 
@@ -212,14 +212,14 @@ When possible, I cited resources that are open access or otherwise public. If yo
 
 - Herft, Nick. “[Creating program logic models](https://www.betterevaluation.org/tools-resources/creating-program-logic-models).” Better Evaluation. 2013.
 - Kaplan, Sue A., and Katherine E. Garrett. “[The use of logic models by community-based initiatives](https://doi.org/10.1016/j.evalprogplan.2004.09.002).” Evaluation and Program Planning 28, no. 2 (May 2005): 167–172.
-- Meadows, Donella H. _Thinking in Systems: A Primer_, ed. Diana Wright. White River Junction, Vermont: Chelsea Green Publish-ing, 2008.
+- Meadows, Donella H. _Thinking in Systems: A Primer_, ed. Diana Wright. White River Junction, Vermont: Chelsea Green Publishing, 2008.
 
 ## Chapter 12: Information and resources
 
 1. WebAIM, “Survey of Web Accessibility Practitioners #3 Results.” Persing, “Accessibility Roles and Hiring.”
 1. “[Leadership & Management](https://www.gallup.com/404252/indicator-leadership-management.aspx),” Gallup, accessed September 12, 2024.
-1. Alexia Fernández Campbell, “[CEOs got bonuses while workers struggled during the pandemic](https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/ceo-pay-workers-struggled-pandemic/),” Center for Public Integrity, Au-gust 20, 2021.
-1. Tanya Williams, “[What is a rating scale? (With examples)](https://dovetail.com/surveys/rating-scale/),” Dove-tail, updated April 5, 2023.
+1. Alexia Fernández Campbell, “[CEOs got bonuses while workers struggled during the pandemic](https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/ceo-pay-workers-struggled-pandemic/),” Center for Public Integrity, August 20, 2021.
+1. Tanya Williams, “[What is a rating scale? (With examples)](https://dovetail.com/surveys/rating-scale/),” Dovetail, updated April 5, 2023.
 
 ### Additional resources
 
