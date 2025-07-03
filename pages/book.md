@@ -71,6 +71,9 @@ There is a tendency among accessibility practitioners to put their work before t
 
 This book is two things. The first is a crash course in frameworks and ways of thinking from fields like information science, organizational theory, and DEI. The second is a walkthrough of building and operationalizing sustainable, data-driven accessibility programming. The focus is always on saving your time and energy for the long haul, while centering the needs and realities of the disabled people you're serving.
 
+>**This is the book I wish I had when I was starting my career.**
+>– Crystal Preston-Watson, Senior Digital Accessibility Analyst
+
 ## Excerpts and resources
 
 - [Beta draft excerpts](/posts/book-excerpts/)
