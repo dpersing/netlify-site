@@ -50,7 +50,7 @@ eleventyNavigation:
       <h3 class="format">Kindle ebook only</h3>
       <span class="cost">18 USD</span>
       <small>MOBI and KPF formats for Kindle apps and devices</small>
-      <a href="ps://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB">Buy ebook on Amazon</a>
+      <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB">Buy ebook on Amazon</a>
     </div>
   </li>
   <li>
