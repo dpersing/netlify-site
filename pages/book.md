@@ -26,7 +26,7 @@ eleventyNavigation:
       <h3 class="format">Paperback + ebook bundle</h3>
       <span class="cost">30 USD</span>
       <small>Paperback edition includes a code to download the ebook bundle for free!</small>
-      <a href="https://bookshop.org/p/books/the-accessibility-operations-guidebook-to-making-accessibility-work-more-sustainable-devon-persing/34edd478ed0247d6?ean=9798307802304&next=t">Buy paperback on Bookshop.org</a>
+      <a href="https://bookshop.org/a/105517/9798307802304">Buy paperback on Bookshop.org</a>
       <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable/dp/B0DVZFRG4L">Buy paperback on Amazon</a>
     </div>
   </li>
