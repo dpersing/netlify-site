@@ -24,8 +24,9 @@ eleventyNavigation:
     </div>
     <div class="deets">
       <h3 class="format">Paperback + ebook bundle</h3>
-      <span class="cost">24 USD</span>
-      <small>Print edition includes a code to download ebook bundle</small>
+      <span class="cost">30 USD</span>
+      <small>Paperback edition includes a code to download ebook bundle</small>
+      <a href="https://bookshop.org/p/books/the-accessibility-operations-guidebook-to-making-accessibility-work-more-sustainable-devon-persing/34edd478ed0247d6?ean=9798307802304&next=t">Buy paperback on Bookshop.org</a>
       <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable/dp/B0DVZFRG4L">Buy paperback on Amazon</a>
     </div>
   </li>
@@ -37,7 +38,7 @@ eleventyNavigation:
     <div class="deets">
       <h3 class="format">Ebook bundle</h3>
       <span class="cost">20 USD</span>
-      <small>DRM-free EPUB + Kindle formats</small>
+      <small>DRM-free EPUB + Kindle bundle</small>
       <a href="https://payhip.com/b/OSyLt">Buy ebook bundle on Payhip</a>
     </div>
   </li>
