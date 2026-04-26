@@ -10,19 +10,11 @@ eleventyNavigation:
 ---
 # Links and resources
 
-This is a collection of articles, talks, and discussions published elsewhere.
-
-<!-- embed sustainability video -->
-
-## Articles
-
-- [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems) for Assistiv Labs, 2025
-- [Accessibility is more than a technical problem](https://medium.com/shopify-ux/accessibility-is-more-than-a-technical-problem-ca6bb9dee8ce) for Shopify UX, 2021
-- [World-building accessibility literacy](https://www.24a11y.com/2019/world-building-accessibility-literacy/) for 24 Accessibility, 2019
-- [The accessibility stack](https://web.archive.org/web/20210211003545/http://simplyaccessible.com/article/the-accessibility-stack/) for Simply Accessible, 2016
+This is a collection of talks, articles, and discussions published elsewhere.
 
 ## Videos
 
+- [Building accessibility and community systems for the long haul](https://www.youtube.com/watch?v=lbOlXTHrYnM), for Tech Access Oklahoma, 2025 (43 minutes)
 - Accessible UX: Design for the rest of us
   - [For UxLx](https://youtu.be/PpobPKua0ME?si=rUxUMxP8WT1ivPna), 2025 (31 minutes)
   - [For Web Accessibility In Mind](https://www.youtube.com/watch?v=15U3sZmXL4I), 2024 (60 minutes)
@@ -31,6 +23,13 @@ This is a collection of articles, talks, and discussions published elsewhere.
 - [Building a sustainable accessibility practice](https://youtu.be/vhyWFrwJTtY?si=l5ma3-Mzh0Uou9V2) for SeattleJS, 2017 (11 minutes)
 - [Making your website more accessible](https://www.youtube.com/watch?v=e9yX5n9GRFM) for MagsBC, 2017 (60 minutes)
 - [Ambient librarianship](https://www.youtube.com/watch?v=zuGO_kuhZZE) for Ignite Ann Arbor, 2009 (5 minutes)
+
+## Articles
+
+- [Creating accessibility systems to fix accessibility issues](https://assistivlabs.com/articles/accessibility-systems) for Assistiv Labs, 2025
+- [Accessibility is more than a technical problem](https://medium.com/shopify-ux/accessibility-is-more-than-a-technical-problem-ca6bb9dee8ce) for Shopify UX, 2021
+- [World-building accessibility literacy](https://www.24a11y.com/2019/world-building-accessibility-literacy/) for 24 Accessibility, 2019
+- [The accessibility stack](https://web.archive.org/web/20210211003545/http://simplyaccessible.com/article/the-accessibility-stack/) for Simply Accessible, 2016
 
 ## Podcasts
 
