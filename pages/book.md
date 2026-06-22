@@ -13,58 +13,12 @@ eleventyNavigation:
 
 **To making accessibility work more sustainable**
 
-## Available in paperback and ebook
+>**This is the book I wish I had when I was starting my career.**
+>– Crystal Preston-Watson, Senior Digital Accessibility Analyst
 
-<ul class="bundles products">
-  <li>
-    <div class="icons">
-      <img alt="" src="/static/img/paperback.png">
-      <img alt="" src="/static/img/ebook.png">
-      <img alt="" src="/static/img/ebook_green.png">
-    </div>
-    <div class="deets">
-      <h3 class="format">Paperback + ebook bundle</h3>
-      <span class="cost">30 USD</span>
-      <small>Paperback edition includes a code to download the ebook bundle for free!</small>
-      <a href="https://bookshop.org/a/105517/9798307802304">Buy paperback on Bookshop.org</a>
-      <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable/dp/B0DVZFRG4L">Buy paperback on Amazon</a>
-    </div>
-  </li>
-  <li>
-    <div class="icons">
-      <img alt="" src="/static/img/ebook.png">
-      <img alt="" src="/static/img/ebook_green.png">
-    </div>
-    <div class="deets">
-      <h3 class="format">Ebook bundle</h3>
-      <span class="cost">20 USD</span>
-      <small>DRM-free EPUB + Kindle bundle</small>
-      <a href="https://payhip.com/b/OSyLt">Buy ebook bundle on Payhip</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <img alt="" src="/static/img/ebook.png">
-    </div>
-    <div class="deets">
-      <h3 class="format">Kindle ebook only</h3>
-      <span class="cost">18 USD</span>
-      <small>MOBI and KPF formats for Kindle apps and devices</small>
-      <a href="https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB">Buy ebook on Amazon</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <img alt="" src="/static/img/ebook_green.png">
-    </div>
-    <div class="deets">
-      <h3 class="format">Kobo ebook only</h3>
-      <span class="cost">18 USD</span>
-      <small>EPUB format for Kobo apps and devices</small>
-      <a class="format" href="https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook">Buy ebook on Kobo</a>
-    </div>
-  </li>
-</ul>
+<figure class="bookcover">
+  <img src="/static/img/toag_cover.jpg" alt="Cover of The Accessibility Operations Guidebook, featuring a rainbow chevron and the author's name stylized inside of a sketch of a post-it note.">
+</figure>
 
 ## What it's all about
 
@@ -72,8 +26,19 @@ There is a tendency among accessibility practitioners to put their work before t
 
 This book is two things. The first is a crash course in frameworks and ways of thinking from fields like information science, organizational theory, and DEI. The second is a walkthrough of building and operationalizing sustainable, data-driven accessibility programming. The focus is always on saving your time and energy for the long haul, while centering the needs and realities of the disabled people you're serving.
 
->**This is the book I wish I had when I was starting my career.**
->– Crystal Preston-Watson, Senior Digital Accessibility Analyst
+## Buy ebook
+
+- [Ebook bundle](https://payhip.com/b/OSyLt) (EPUB, KPF, MOBI)
+- [Kindle](https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable-ebook/dp/B0DK7SWKTB) (KPF and MOBI)
+- [Kobo](https://www.kobo.com/us/en/ebook/the-accessibility-operations-guidebook) (EPUB)
+
+## Buy paperback
+
+- [Amazon](https://www.amazon.com/Accessibility-Operations-Guidebook-accessibility-sustainable/dp/B0DVZFRG4L)
+- [Bookshop.org](https://bookshop.org/a/105517/9798307802304)
+- [Waterstones](https://www.waterstones.com/book/the-accessibility-operations-guidebook/devon-persing/9798307802304)
+
+The print edition ships with a discount code to download the ebook bundle for free!
 
 ## Excerpts and resources
 
