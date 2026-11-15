@@ -6,7 +6,7 @@ date: 2022-05-19
 permalink: /links/index.html
 eleventyNavigation:
   key: Links
-  order: 5
+  order: 6
 ---
 # Links and resources
 
